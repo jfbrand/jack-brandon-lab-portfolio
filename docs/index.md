@@ -2,6 +2,8 @@
 
 <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/72ebab3f-8462-43a0-a77c-512992affce3" />
 
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/0a5909d6-2cb4-4ee6-916a-61f1b0e377db" />
+
 ---
 
 > **"Failure is simply the opportunity to begin again, this time more intelligently." - Henry Ford**
