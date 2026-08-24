@@ -65,8 +65,7 @@ That last question is the standard: could someone read your entry, understand yo
 
 ---
 
-*MEGR 2156 — Design Projects I Laboratory | UNC Charlotte*
-*Terence J. Fagan, Ph.D. | tjfagan@charlotte.edu | Duke 394*
+Linkedin: https://www.linkedin.com/in/jackbrandon9 Email: jbrand14@charlotte.edu
 
 
 
