@@ -2,7 +2,9 @@
 
 <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/72ebab3f-8462-43a0-a77c-512992affce3" />
 
-> **Engineering is the art of making decisions you can defend.**
+---
+
+> **"Failure is simply the opportunity to begin again, this time more intelligently. - Henry Ford"**
 
 Welcome to my engineering portfolio! My name is Jack Brandon and I am a mechanical engineering student with a focus in motorsports at the University of North Carolina - Charlotte.
 
