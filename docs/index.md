@@ -4,7 +4,7 @@
 
 ---
 
-> **"Failure is simply the opportunity to begin again, this time more intelligently. - Henry Ford"**
+> **"Failure is simply the opportunity to begin again, this time more intelligently." - Henry Ford**
 
 Welcome to my engineering portfolio! My name is Jack Brandon and I am a mechanical engineering student with a focus in motorsports at the University of North Carolina - Charlotte.
 
