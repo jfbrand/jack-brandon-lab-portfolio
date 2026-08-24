@@ -1,4 +1,4 @@
-# Jack Brandon - MEGR 2157 L3D Design Projects 1 Laboratory Portfolio
+# Jack Brandon - MEGR 2157 L3D - Design Projects 1 Laboratory Portfolio
 
 <img width="1357" height="762" alt="image" src="https://github.com/user-attachments/assets/c5a418fa-a095-439b-b58d-0c663dc1079d" />
 
