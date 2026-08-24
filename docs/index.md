@@ -12,7 +12,10 @@ Thank you!
 
 ---
 
-Linkedin: https://www.linkedin.com/in/jackbrandon9 Email: jbrand14@charlotte.edu
+Contact Information
+
+Email: jbrand14@charlotte.edu
+Linkedin: https://www.linkedin.com/in/jackbrandon9
 
 
 
