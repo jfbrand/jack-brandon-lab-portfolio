@@ -1,4 +1,4 @@
-# MEGR 2156 — Design Projects I Laboratory
+# Jack Brandon - MEGR 2156 Portfolio
 
 > **Engineering is the art of making decisions you can defend.**
 
