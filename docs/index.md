@@ -1,5 +1,7 @@
 # Jack Brandon - MEGR 2156 Portfolio
 
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/72ebab3f-8462-43a0-a77c-512992affce3" />
+
 > **Engineering is the art of making decisions you can defend.**
 
 **Welcome to your design portfolio.**
