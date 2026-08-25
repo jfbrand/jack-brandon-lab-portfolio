@@ -1,13 +1,4 @@
-# A2 – Truss Stress Analysis
+# A2 – 3D Printing Lab Week 2
 
-## Objective
-
-
-## Analyze
-
-
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
-## Communicate
+Overhangs in FDM are when unsupported material is bridging a gap in the part. This can cause problems with sagging while printing. The work around is either to change the print orientation to compensate for this or by increasing the part cooling to attempt to harden the filament faster.
 
