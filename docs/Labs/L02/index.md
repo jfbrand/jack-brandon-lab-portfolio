@@ -1,4 +1,4 @@
-# A2 – 3D Printing Lab Week 2
+# A2 – First Print
 
 Additive Manufacturing vs Subtractive Manufacturing
 
