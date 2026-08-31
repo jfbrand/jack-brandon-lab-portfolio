@@ -44,5 +44,8 @@ Next, I inserted the flash drive into the printer and selected the gcode file. I
 
 [![Watch the video](https://shields.io)](https://drive.google.com/file/d/1giiN5Ri11dBXm_wngNWB4mpthpZF61l-/view?usp=sharing)
 
+After roughly two minutes of print time, it was finished. Here is the model after removal from the print bed, with supports still attached. It's tiny!
+
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/55e75d72-fc89-435a-8b57-1f30dc5e6b67" />
 
 
