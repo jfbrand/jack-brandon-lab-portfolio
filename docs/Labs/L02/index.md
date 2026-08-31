@@ -42,3 +42,6 @@ I then inserted the Prusa printer flash drive and exported using the "Export to 
 
 Next, I inserted the flashdrive into the printer and selected the gcode file. I used standard eSUN PLA filament and Printer 5 in the Super Fab Lab. 
 
+<img width="400" height="710" alt="3D Print Video" src="https://github.com/user-attachments/assets/aeb5db38-3024-4fdc-a951-2471e09aa930" />
+
+
