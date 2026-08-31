@@ -42,7 +42,7 @@ I then inserted the Prusa printer flash drive and exported using the "Export to 
 
 Next, I inserted the flash drive into the printer and selected the gcode file. I used standard eSUN PLA filament and Printer 5 in the Super Fab Lab. 
 
-
+[![Watch the video](https://shields.io)](https://drive.google.com/file/d/1giiN5Ri11dBXm_wngNWB4mpthpZF61l-/view?usp=sharing)
 
 
 
