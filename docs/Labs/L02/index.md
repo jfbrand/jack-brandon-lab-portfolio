@@ -40,5 +40,5 @@ I then clicked "slice now" and left the default slicer settings.
 
 I then inserted the Prusa printer flash drive and exported using the "Export to SD/USB drive button (small disk/drive icon). I then saved to the connected flash drive, and clicked the eject button in the bottom right corner of PrusaSlicer to remove the flash drive.
 
-Next, I inserted the flashdrive into the printer and selected the gcode file. I used standard Esun PLA filament and Printer 5 in the Super Fab Lab. 
+Next, I inserted the flashdrive into the printer and selected the gcode file. I used standard eSUN PLA filament and Printer 5 in the Super Fab Lab. 
 
