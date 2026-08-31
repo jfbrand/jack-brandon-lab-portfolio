@@ -20,7 +20,7 @@ Layers/surface finish (Andy)- Typically visible on the part but can be made less
 
 Lab #2: Print Something Small
 
-**Download
+**Download**
 
 Downloaded from: https://www.printables.com/model/237108-master-chief-mark-vi-helmet-the-master-chief-colle
 
@@ -28,7 +28,7 @@ Halo is my favorite video game of all time and Master chief is of course my favo
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/128de4a2-2b3e-4cd2-ac68-393c9929b4ea" />
 
-**Preprocessor
+**Preprocessor**
 
 When I opened the file in Prusa slicer I immediately noticed that the model was massive: 10.37 X 14.96 X 11.76in.
 
@@ -44,7 +44,7 @@ I then clicked "slice now" and left the default slicer settings.
 
 I then inserted the Prusa printer flash drive and exported using the "Export to SD/USB drive button (small disk/drive icon). I then saved to the connected flash drive, and clicked the eject button in the bottom right corner of PrusaSlicer to remove the flash drive.
 
-**Print
+**Print**
 
 Next, I inserted the flash drive into the printer and selected the gcode file. I used standard eSUN PLA filament and Printer 5 in the Super Fab Lab. 
 
@@ -64,7 +64,7 @@ If the goal was to "make something small" I'd say I accomplished that!
 
 <img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/a7b2c48d-504f-420c-a579-e3c591626388" />
 
-**Lessons Learned
+**Lessons Learned**
 
 1. There is a limit to how small a part can be. Of course, this is obviously true, but it is worth mentioning that even with the thinnest layers, the majority of detail is lost in parts this small. As a proof of concept it was interesting, however, and it gave me a frame of reference for the level of detail achievable with the setups we have access to.
 2. The model selected was not ideal. Again, somewhat obvious, but it is a good rule of thumb to try and find a part/model that fits the dimension constraints rather than forcing one to meet all of them. In this case, a helmet, being a mostly spherical shape did not make sense for the dimensional constraints. A flatter part would have been much more suited to the project.
