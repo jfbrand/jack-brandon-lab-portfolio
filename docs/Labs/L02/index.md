@@ -20,11 +20,15 @@ Layers/surface finish (Andy)- Typically visible on the part but can be made less
 
 Lab #2: Print Something Small
 
+**Download
+
 Downloaded from: https://www.printables.com/model/237108-master-chief-mark-vi-helmet-the-master-chief-colle
 
 Halo is my favorite video game of all time and Master chief is of course my favorite character so naturally I decided to make a model of his helmet.
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/128de4a2-2b3e-4cd2-ac68-393c9929b4ea" />
+
+**Preprocessor
 
 When I opened the file in Prusa slicer I immediately noticed that the model was massive: 10.37 X 14.96 X 11.76in.
 
@@ -39,6 +43,8 @@ I then clicked "slice now" and left the default slicer settings.
 <img width="1917" height="1020" alt="Slicer Screenshot" src="https://github.com/user-attachments/assets/bc57f7a0-e4b7-483d-8280-cb7620d5d8a1" />
 
 I then inserted the Prusa printer flash drive and exported using the "Export to SD/USB drive button (small disk/drive icon). I then saved to the connected flash drive, and clicked the eject button in the bottom right corner of PrusaSlicer to remove the flash drive.
+
+**Print
 
 Next, I inserted the flash drive into the printer and selected the gcode file. I used standard eSUN PLA filament and Printer 5 in the Super Fab Lab. 
 
@@ -58,3 +64,15 @@ If the goal was to "make something small" I'd say I accomplished that!
 
 <img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/a7b2c48d-504f-420c-a579-e3c591626388" />
 
+**Lessons Learned
+
+1. There is a limit to how small a part can be. Of course, this is obviously true, but it is worth mentioning that even with the thinnest layers, the majority of detail is lost in parts this small. As a proof of concept it was interesting, however, and it gave me a frame of reference for the level of detail achievable with the setups we have access to.
+2. The model selected was not ideal. Again, somewhat obvious, but it is a good rule of thumb to try and find a part/model that fits the dimension constraints rather than forcing one to meet all of them. In this case, a helmet, being a mostly spherical shape did not make sense for the dimensional constraints. A flatter part would have been much more suited to the project.
+3. Printables works seamlessly with Prusa Slicer. This will undoubtedly be useful to know in the future. Really it is a sign of just how widespread 3D printing has become - even as just a hobby for many people. The process to find something you like pre modeled, export to the preprocessor, and print in a matter of minutes is shockingly simple.
+4. Prusa slicer does a good job of generating supports. Even the smallest and most unorthodox parts such as mine can still be printed in essentially any orientation with the use of supports. This will be beneficial in the future when certain parts require special attention due to overhang risks. Also being able to dictate the print orientation and layer thickness essentially allows the designer to have control over the finish and texture of the part.
+
+Print time: 2 minutes
+
+Help with the process: I received some with a filament change prior to printing by one of the SFL assistants.
+
+Resources: https://www.printables.com/
