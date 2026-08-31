@@ -48,4 +48,13 @@ After roughly two minutes of print time, it was finished. Here is the model afte
 
 <img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/55e75d72-fc89-435a-8b57-1f30dc5e6b67" />
 
+The finished product.
+
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/6ce09a6c-f3e1-4ca5-947f-a093babf92d6" />
+
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/9c07005e-e9d3-42e3-91f4-87b2a5216d7d" />
+
+If the goal was to "make something small" I'd say I accomplished that! 
+
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/a7b2c48d-504f-420c-a579-e3c591626388" />
 
