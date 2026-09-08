@@ -30,11 +30,11 @@ I decided to go with a basic pyramid design for this project. I chose this desig
 
 <img width="657" height="615" alt="image" src="https://github.com/user-attachments/assets/159994b2-0b98-4b7f-93c0-8ec9ae9ead7f" />
 
-
+First, I began by sketching a 1.5 by 1.5 inch square.
 
 <img width="482" height="556" alt="image" src="https://github.com/user-attachments/assets/bbf1596e-47df-4398-985c-2d0ad039e5ee" />
 
-
+Next, I found that the easiest way to produce the 
 
 <img width="1477" height="782" alt="image" src="https://github.com/user-attachments/assets/435511e4-2fae-4a35-aa01-b1bb930a4b81" />
 
