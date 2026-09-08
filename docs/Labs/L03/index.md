@@ -65,16 +65,7 @@ Detail any mistakes throughout the process.
 
 **Print**
 
-<body>
-  <h1>My Page</h1>
-  <p>Some existing content...</p>
-
-  <video controls width="100%">
-    <source src="/videos/clip.mp4" type="video/mp4">
-  </video>
-
-  <p>More content...</p>
-</body>
+https://drive.google.com/file/d/1PtCazdjJUSyUulA7RTVLzYBTWaM3LlH-/view?usp=sharing
 
 **Lessons Learned**
 Detailed lessons learned throughout the process, the more detail the better. Which includes detailing any mistakes throughout the process and how you fixed them.
