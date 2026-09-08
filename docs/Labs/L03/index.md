@@ -66,6 +66,8 @@ Wall thickness: The wall thickness was set to 2 perimeters (0.90 mm thick). The 
 
 Click [here](https://drive.google.com/file/d/1PtCazdjJUSyUulA7RTVLzYBTWaM3LlH-/view?usp=sharing) to watch the video of the print.
 
+<img width="967" height="247" alt="image" src="https://github.com/user-attachments/assets/a4c819ed-af65-4240-8989-9f80719e657a" />
+
 **Lessons Learned**
 
 This design process helped me gain experience with the loft function in fusion. Before this, I had only extruded and extrude cut shapes. Before I realized it would be the best method to model the pyramid, I attempted, unsuccessfully, to produce it without using loft. I was trying to produce the geometry by sketching from several different planes. However, even if it had been successful, it would still be much easier to use loft in this case. Being less familiar with fusion (I just picked it up in the last few months) I have been challenging myself to try the different functions that I mastered in SolidWorks before. This is just the start - I plan on trying more complex designs in the future.
