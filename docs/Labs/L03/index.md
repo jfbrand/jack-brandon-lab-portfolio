@@ -22,7 +22,7 @@ Given these requirements I figured the part would ideally be something relativel
 
 <img width="852" height="490" alt="image" src="https://github.com/user-attachments/assets/2c337283-9472-4f51-a326-cb00ebba16d0" />
 
-I decided to go with a basic pyramid design for this project. I chose this design because of its simplicity and solid geometry (no hollow parts or crevices) lending it to be plenty large enough for infill. Due to its shape it is also without overhangs. From a modeling perspective the shape is interesting because it requires techniques that someone relatively new to CAD would otherwise not have as much experience with. I wanted a slight challenge that forced me try techniques other than the typical sketch -> extrude process.
+I decided to go with a basic pyramid design for this project. I chose this design because of its simplicity and solid geometry (no hollow parts or crevices) lending it to be plenty large enough for infill. Due to its shape it is also without overhangs. From a modeling perspective the shape is interesting because it is most easily created by using the loft function which I didn't have much experience with in Fusion. 
 
 ## Communicate
 
@@ -41,12 +41,25 @@ Next, I found that the easiest way to produce the desired geometry was to create
 Then, the loft tool was used to create the desired geometry by selecting the square and then the point I had made in the last step.
 
 **Research**
-Research three infills not shown in class to describe the geometry and why each infill is used.
-Directly answer: how does infill percentage affect mechanical properties, and how do different infill patterns affect mechanical properties?
+
+Three less common types of Infills in 3D Printing: Hilbert Curve, Archimedean Chords, Octagram Spiral.
+
+Hilbert Curve: Looks like a rectangular maze. Used for filling a clear print with epoxy resin.
+
+Archimedean Chords: A spiral that starts in the center of the part. Allows for easy bending for flexible parts and filling with liquid. 
+
+Octagram Spiral: An eight sided spiral shape. Good for supporting flat top layers and easy to fill with liquid. 
+
+Infill percentage effects the density of the part being printed. A part with higher density is stronger but also heavier. Different infill patterns can effect the mechanical properties of the part by decreasing the weight without it being at the expense of strength. Infills like honeycomb, for example, are lightweight and strong but have higher strength in certain directions. Infills like gyroid are isotropic and can better distribute stress in more directions than honeycomb. 
+
 **Preprocessor and Printing**
+
+### Slicer Info
+
 Document the slicer information on PrusaSlicer. Some, not all, questions to answer are outlined below to guide your documentation.
 
-Why choose the build orientation?
+The build orientation chosen was upright, resting on the bottom, square face. Because the part had a simple geometry this orientation worked well.
+
 Did you need to scale? If so, why and how?
 What different infill was used in your print versus the default, and why was it used?
 What was the wall thickness modified to, and why? Directly answer: why use different wall thicknesses?
