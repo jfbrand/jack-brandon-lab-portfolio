@@ -54,8 +54,6 @@ Infill percentage effects the density of the part being printed. A part with hig
 
 **Preprocessor and Printing**
 
-Slicer Info:
-
 Build Orientation: The build orientation chosen was upright, resting on the bottom, square face. Because the part had a simple geometry this orientation worked well. 
 
 Scaling: No scaling was needed because the part was dimensioned correctly.
