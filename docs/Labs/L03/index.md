@@ -54,20 +54,27 @@ Infill percentage effects the density of the part being printed. A part with hig
 
 **Preprocessor and Printing**
 
-### Slicer Info
+Slicer Info:
 
-Document the slicer information on PrusaSlicer. Some, not all, questions to answer are outlined below to guide your documentation.
-
-The build orientation chosen was upright, resting on the bottom, square face. Because the part had a simple geometry this orientation worked well.
+The build orientation chosen was upright, resting on the bottom, square face. Because the part had a simple geometry this orientation worked well. 
 
 Did you need to scale? If so, why and how?
 What different infill was used in your print versus the default, and why was it used?
 What was the wall thickness modified to, and why? Directly answer: why use different wall thicknesses?
 Detail any mistakes throughout the process.
 **Print**
-3D print your design using one of the FDM printers from the UNCC print farm.
-Upload a video showing the 3D operation of your component to your GitHub portfolio.
-Confirm the printed part meets all stipulations (size, height, no overhangs, PLA/PETG, print time).
+
+<body>
+  <h1>My Page</h1>
+  <p>Some existing content...</p>
+
+  <video controls width="100%">
+    <source src="/videos/clip.mp4" type="video/mp4">
+  </video>
+
+  <p>More content...</p>
+</body>
+
 **Lessons Learned**
 Detailed lessons learned throughout the process, the more detail the better. Which includes detailing any mistakes throughout the process and how you fixed them.
 Actual time it took from start to finish, and resources.
