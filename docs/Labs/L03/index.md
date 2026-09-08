@@ -64,6 +64,8 @@ Wall thickness: The wall thickness was set to 2 perimeters (0.90 mm thick). The 
 
 **Print**
 
+<img width="505" height="457" alt="image" src="https://github.com/user-attachments/assets/33f345b0-62b0-47b0-85ea-00d05e0d5e60" />
+
 Click [here](https://drive.google.com/file/d/1PtCazdjJUSyUulA7RTVLzYBTWaM3LlH-/view?usp=sharing) to watch the video of the print.
 
 <img width="967" height="247" alt="image" src="https://github.com/user-attachments/assets/a4c819ed-af65-4240-8989-9f80719e657a" />
@@ -72,10 +74,9 @@ Click [here](https://drive.google.com/file/d/1PtCazdjJUSyUulA7RTVLzYBTWaM3LlH-/v
 
 This design process helped me gain experience with the loft function in fusion. Before this, I had only extruded and extrude cut shapes. Before I realized it would be the best method to model the pyramid, I attempted, unsuccessfully, to produce it without using loft. I was trying to produce the geometry by sketching from several different planes. However, even if it had been successful, it would still be much easier to use loft in this case. Being less familiar with fusion (I just picked it up in the last few months) I have been challenging myself to try the different functions that I mastered in SolidWorks before. This is just the start - I plan on trying more complex designs in the future.
 
-If I scaled this part up, I believe the part would still be satisfactory depending  This is due to the inherent strength of the pyramid design. If The only downfall to the infill selected would be print time and cost.
+If I scaled this part up, I believe the part would still be satisfactory due to it not bearing any load. However, if this was a part that was designed to sustain any stress I would likely either increase the infill density to around fifty percent or higher or switch to gyroid infill, or both.
 
 I originally had the wrong printer nozzle selected in the Prusa Slicer. This likely wouldn't have made a difference and I ended up sharing a print bed and so my slicer wasn't used anyway. It did remind me that it is important to be mindful of the settings in the slicer before exporting the G-code.
-
 
 **Resources**
 Google Gemini- Infill research
