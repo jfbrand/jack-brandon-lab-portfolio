@@ -72,12 +72,16 @@ Click [here](https://drive.google.com/file/d/1PtCazdjJUSyUulA7RTVLzYBTWaM3LlH-/v
 
 **Lessons Learned**
 
-This design process helped me gain experience with the loft function in fusion. Before this, I had only extruded and extrude cut shapes. Before I realized it would be the best method to model the pyramid, I attempted, unsuccessfully, to produce it without using loft. I was trying to produce the geometry by sketching from several different planes. However, even if it had been successful, it would still be much easier to use loft in this case. Being less familiar with fusion (I just picked it up in the last few months) I have been challenging myself to try the different functions that I mastered in SolidWorks before. This is just the start - I plan on trying more complex designs in the future.
+This design process helped me gain experience with the loft function in fusion. Before this, I had only extruded and extrude cut shapes. Before I realized it would be the best method to model the pyramid, I attempted, unsuccessfully, to produce it without using loft. I was trying to produce the geometry by sketching from several different planes. However, even if it had been successful, it would still be much easier to use loft in this case. Being less familiar with fusion (I just picked it up in the last few months) I have been challenging myself to try the different functions that I mastered in SolidWorks before. This is just the start - I plan on trying more complex designs in the future. This assignment took me roughly 6 hours total.
 
-If I scaled this part up, I believe the part would still be satisfactory due to it not bearing any load. However, if this was a part that was designed to sustain any stress I would likely either increase the infill density to around fifty percent or higher or switch to gyroid infill, or both.
+If I scaled this part up, I believe the part would still be satisfactory due to it not bearing any load. However, if this was a part that was designed to sustain any stress I would likely either increase the infill density to around fifty percent or higher or switch to gyroid infill, or both. If the infill or wall thickness wasn't correct for a part designed for that situation, the consequences could be a flimsy part at best or a failed part at worst.
 
 I originally had the wrong printer nozzle selected in the Prusa Slicer. This likely wouldn't have made a difference and I ended up sharing a print bed and so my slicer wasn't used anyway. It did remind me that it is important to be mindful of the settings in the slicer before exporting the G-code.
 
+A product that must have infill, wall thickness, and material correct for user safety would be an office chair or any other type of plastic chair. Many chairs now have plastic legs, backs, and arm rests. These components must have the correct wall thickness to be bolted to other parts while having enough infill to be strong. The parts have to be designed with a factor of safety that accounts for the range of different body weights. In some areas of the chair, a flexible material may be desired, while in others, a more stiff material may be better. This parallels any kind of design that I will be doing in this class as I will be making decisions in all of these areas every time I make a part in order to ensure it performs as desired. 
+
 **Resources**
+
 Google Gemini- Infill research
+
 Claude AI - Video link embedding
