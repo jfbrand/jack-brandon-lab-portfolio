@@ -30,18 +30,16 @@ I decided to go with a basic pyramid design for this project. I chose this desig
 
 <img width="657" height="615" alt="image" src="https://github.com/user-attachments/assets/159994b2-0b98-4b7f-93c0-8ec9ae9ead7f" />
 
-First, I began by sketching a 1.5 by 1.5 inch square.
+First, I began by sketching a 1.5 by 1.5 inch square in the x-y plane (top view).
 
 <img width="482" height="556" alt="image" src="https://github.com/user-attachments/assets/bbf1596e-47df-4398-985c-2d0ad039e5ee" />
 
-Next, I found that the easiest way to produce the 
+Next, I found that the easiest way to produce the desired geometry was to create a point 0.5 inches above square, along the z axis (front view).
 
 <img width="1477" height="782" alt="image" src="https://github.com/user-attachments/assets/435511e4-2fae-4a35-aa01-b1bb930a4b81" />
 
+Then, the loft tool was used to create the desired geometry by selecting the square and then the point I had made in the last step.
 
-
-Document the design process, which includes many pictures with an overview of images at the different stages.
-Detail the steps and reasons/decisions from start to finish.
 **Research**
 Research three infills not shown in class to describe the geometry and why each infill is used.
 Directly answer: how does infill percentage affect mechanical properties, and how do different infill patterns affect mechanical properties?
