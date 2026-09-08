@@ -62,6 +62,7 @@ Did you need to scale? If so, why and how?
 What different infill was used in your print versus the default, and why was it used?
 What was the wall thickness modified to, and why? Directly answer: why use different wall thicknesses?
 Detail any mistakes throughout the process.
+
 **Print**
 
 <body>
