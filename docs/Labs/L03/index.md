@@ -56,22 +56,27 @@ Infill percentage effects the density of the part being printed. A part with hig
 
 Slicer Info:
 
-The build orientation chosen was upright, resting on the bottom, square face. Because the part had a simple geometry this orientation worked well. 
+Build Orientation: The build orientation chosen was upright, resting on the bottom, square face. Because the part had a simple geometry this orientation worked well. 
 
-Did you need to scale? If so, why and how?
-What different infill was used in your print versus the default, and why was it used?
-What was the wall thickness modified to, and why? Directly answer: why use different wall thicknesses?
-Detail any mistakes throughout the process.
+Scaling: No scaling was needed because the part was dimensioned correctly.
+
+Infill: Grid infill was used because isotropic characteristics weren't needed but lightness and less filament was preferred.
+
+Wall thickness: The wall thickness was set to 2 perimeters (0.90 mm thick). The reason for using a different wall thickness is to provide added toughness or strength for a part. It is especially important for parts that will have holes used for bolts.
 
 **Print**
 
 Click [here](https://drive.google.com/file/d/1PtCazdjJUSyUulA7RTVLzYBTWaM3LlH-/view?usp=sharing) to watch the video of the print.
 
 **Lessons Learned**
-Detailed lessons learned throughout the process, the more detail the better. Which includes detailing any mistakes throughout the process and how you fixed them.
-Actual time it took from start to finish, and resources.
-What would happen if you scaled this decision up? If your infill percentage or wall thickness choice were applied to a structural or safety-critical part instead of a small desk object, what would the consequences of getting it wrong be?
-What mistake did you catch, and what mistake might you not have caught? Detail an error you found and fixed. Then, more importantly: what's one flaw in your design or process that could have gone to print undetected, and what would need to change (in your process, not just this part) to catch it next time?
-How does this connect to a real product decision? Identify a consumer or industrial product where infill strategy, wall thickness, or material choice affects user safety (it doesn't have to be 3D printed). Briefly explain the parallel.
+
+This design process helped me gain experience with the loft function in fusion. Before this, I had only extruded and extrude cut shapes. Before I realized it would be the best method to model the pyramid, I attempted, unsuccessfully, to produce it without using loft. I was trying to produce the geometry by sketching from several different planes. However, even if it had been successful, it would still be much easier to use loft in this case. Being less familiar with fusion (I just picked it up in the last few months) I have been challenging myself to try the different functions that I mastered in SolidWorks before. This is just the start - I plan on trying more complex designs in the future.
+
+If I scaled this part up, I believe the part would still be satisfactory depending  This is due to the inherent strength of the pyramid design. If The only downfall to the infill selected would be print time and cost.
+
+I originally had the wrong printer nozzle selected in the Prusa Slicer. This likely wouldn't have made a difference and I ended up sharing a print bed and so my slicer wasn't used anyway. It did remind me that it is important to be mindful of the settings in the slicer before exporting the G-code.
+
+
 **Resources**
-List all resources used
+Google Gemini- Infill research
+Claude AI - Video link embedding
