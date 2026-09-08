@@ -65,7 +65,7 @@ Detail any mistakes throughout the process.
 
 **Print**
 
-https://drive.google.com/file/d/1PtCazdjJUSyUulA7RTVLzYBTWaM3LlH-/view?usp=sharing
+Click [here](https://drive.google.com/file/d/1PtCazdjJUSyUulA7RTVLzYBTWaM3LlH-/view?usp=sharing) to watch the video of the print.
 
 **Lessons Learned**
 Detailed lessons learned throughout the process, the more detail the better. Which includes detailing any mistakes throughout the process and how you fixed them.
