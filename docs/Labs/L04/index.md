@@ -38,8 +38,11 @@ The test part was designed to test overhang angles of 40 to 50 degrees. Each ove
 The following slicer parameters were chosen:
 
 Infill: 15%, Grid pattern
+
 Build Orientation: Bottom face down (same as CAD)
+
 Supports: None
+
 Scale: X: 100% Y: 100% Z:100%
 
 **Design Process**
