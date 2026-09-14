@@ -46,18 +46,31 @@ Scale: X: 100% Y: 100% Z:100%
 
 <img width="1257" height="515" alt="image" src="https://github.com/user-attachments/assets/2244e8ff-b0d5-4061-a491-22262adf7dfa" />
 
+First a 5.5 in X 1.5 in rectangle was sketched.
+
 <img width="1482" height="641" alt="image" src="https://github.com/user-attachments/assets/ba8366b9-e6cd-4977-987d-94e4567eb3d2" />
+
+The rectangle was extruded to a height of .25 in.
 
 <img width="1202" height="442" alt="image" src="https://github.com/user-attachments/assets/f62aa010-068c-40c6-acd3-a3d1485e13dd" />
 
+1.5 in X .25 in rectangles were sketched on the top face of the rectangle as shown.
+
 <img width="1437" height="761" alt="image" src="https://github.com/user-attachments/assets/a8dc616e-e444-4853-912d-bf53468f8287" />
+
+Every other rectangle (11 total) that was just sketched on the top face is extruded to a height of 1 in.
 
 <img width="1432" height="750" alt="image" src="https://github.com/user-attachments/assets/3cf8e5a4-23a7-440c-8afc-f32e18df9934" />
 
+(Optional) The extra base material is extrude cut.
+
 <img width="1432" height="640" alt="image" src="https://github.com/user-attachments/assets/f86073bf-32f8-473b-a5d9-528f877bcba5" />
+
+The corresponding angle for each overhang was sketched on the side of each face (YZ plane), as shown. The angles range from 40-50 degrees, in 1 degree increments.
 
 <img width="1447" height="716" alt="image" src="https://github.com/user-attachments/assets/6d979e8b-c5b1-45b6-ad45-6a7b956c8c3e" />
 
+Finally, the material was extrude cut from each overhang, exposing the angle.
 
 **Communicate**
 
