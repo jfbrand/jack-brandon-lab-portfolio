@@ -95,9 +95,9 @@ Scale: The scale was not changed as the part was designed with appropriate dimen
 
 <img width="1920" height="540" alt="image" src="https://github.com/user-attachments/assets/db61a48a-5c16-45c0-8a70-d1b986aff6a4" />
 
-https://github.com/user-attachments/assets/6f14d12d-42a8-4d97-82f0-1e31a3244f9c
+The part was designed to display the effect of different overhang angles on print quality/intergrity and determine if the 45 degree rule applied to the Prusa Core One printer.
 
-The part tested the maximum overhang angle with the Prusa Core One 3D printer. 
+https://github.com/user-attachments/assets/6f14d12d-42a8-4d97-82f0-1e31a3244f9c
 
 ## Lessons Learned
 
