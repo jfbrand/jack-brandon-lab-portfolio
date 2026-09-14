@@ -77,6 +77,8 @@ Finally, the material was extrude cut from each overhang, exposing the angle.
 
 ## Preprocessor
 
+Material: PETG
+
 Infill: The 15% density grid pattern infill was chosen because it is light and strength was not needed for this test. The purpose was simply to  test the capability of the printer to go beyond the 45 degree angle overhang and so strength was less important than print quality and finish. Furthermore, 15% density is a common infill density. 3D printed parts. The same is true of the grid infill: it is extremely common and in most slicers, standard unless changed, giving a good baseline for this test.
 
 Walls: 2 perimeter walls were chosen to provide a worst case scenario for the test. More walls would theoretically provide more support.
@@ -93,3 +95,8 @@ Scale: The scale was not changed as the part was designed with appropriate dimen
 
 <img width="1920" height="540" alt="image" src="https://github.com/user-attachments/assets/db61a48a-5c16-45c0-8a70-d1b986aff6a4" />
 
+The part tested the maximum overhang angle with the Prusa Core One 3D printer. 
+
+## Lessons Learned
+
+As can be seen from the photos, the overhangs performed better than my prediction. None of the overhangs experienced any severe sagging or failure. Viewing right to left in the photo, it can be seen that the print starts to diminish in quality as the angles get more horizontal. However, very little imperfections appear until 44/45 degrees. After the 45 degrees overhang, the face of the overhangs appear to get progressively more deformed with each step in angle. 
