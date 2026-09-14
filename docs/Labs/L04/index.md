@@ -1,15 +1,3 @@
-
-
-https://github.com/user-attachments/assets/6f14d12d-42a8-4d97-82f0-1e31a3244f9c
-
-
-
-https://github.com/user-attachments/assets/fa7a77c1-4979-4bd4-8446-03cf8e896e89
-
-
-
-https://github.com/user-attachments/assets/1a5e4898-1527-4b95-8787-0a1e13389045
-
 # A4 – Benchmark a Parameter
 
 ## Objective
@@ -106,6 +94,8 @@ Scale: The scale was not changed as the part was designed with appropriate dimen
 <img width="1629" height="1000" alt="image" src="https://github.com/user-attachments/assets/2ffaf68c-98be-4c21-8fc7-9e8186207418" />
 
 <img width="1920" height="540" alt="image" src="https://github.com/user-attachments/assets/db61a48a-5c16-45c0-8a70-d1b986aff6a4" />
+
+https://github.com/user-attachments/assets/6f14d12d-42a8-4d97-82f0-1e31a3244f9c
 
 The part tested the maximum overhang angle with the Prusa Core One 3D printer. 
 
