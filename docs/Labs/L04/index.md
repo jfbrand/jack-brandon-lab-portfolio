@@ -65,15 +65,29 @@ Every other rectangle (11 total) that was just sketched on the top face is extru
 
 <img width="1432" height="750" alt="image" src="https://github.com/user-attachments/assets/3cf8e5a4-23a7-440c-8afc-f32e18df9934" />
 
-(Optional) The extra base material is extrude cut.
+(Optional) The extra base material is extrude cut. This was done to save filament.
 
 <img width="1432" height="640" alt="image" src="https://github.com/user-attachments/assets/f86073bf-32f8-473b-a5d9-528f877bcba5" />
 
-The corresponding angle for each overhang was sketched on the side of each face (YZ plane), as shown. The angles range from 40-50 degrees, in 1 degree increments.
+The corresponding angle for each overhang was sketched on the side of each face (YZ plane), as shown. The angles range from 40-50 degrees, in 1 degree increments. This range was chosen to give a 5 degrees "above and below" test.
 
 <img width="1447" height="716" alt="image" src="https://github.com/user-attachments/assets/6d979e8b-c5b1-45b6-ad45-6a7b956c8c3e" />
 
 Finally, the material was extrude cut from each overhang, exposing the angle.
 
-**Communicate**
+## Preprocessor
+
+Infill: The 15% density grid pattern infill was chosen because it is light and strength was not needed for this test. The purpose was simply to  test the capability of the printer to go beyond the 45 degree angle overhang and so strength was less important than print quality and finish. Furthermore, 15% density is a common infill density. 3D printed parts. The same is true of the grid infill: it is extremely common and in most slicers, standard unless changed, giving a good baseline for this test.
+
+Walls: 2 perimeter walls were chosen to provide a worst case scenario for the test. More walls would theoretically provide more support.
+
+Build orientation: The bottom side down build orientation was the only orientation that made sense for the printing of the test part. If it was printed in any other orientation, the overhangs would not be oriented correctly.
+
+Supports: Supports were not used because the purpose of the test was to expose the limitations in printing overhangs with the Prusa Core One.
+
+Scale: The scale was not changed as the part was designed with appropriate dimensions from the start.
+
+## Print Artifact
+
+
 
