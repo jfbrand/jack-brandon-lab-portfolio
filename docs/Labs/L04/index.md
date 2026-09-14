@@ -89,5 +89,7 @@ Scale: The scale was not changed as the part was designed with appropriate dimen
 
 ## Print Artifact
 
+<img width="1629" height="1000" alt="image" src="https://github.com/user-attachments/assets/2ffaf68c-98be-4c21-8fc7-9e8186207418" />
 
+<img width="1920" height="540" alt="image" src="https://github.com/user-attachments/assets/db61a48a-5c16-45c0-8a70-d1b986aff6a4" />
 
