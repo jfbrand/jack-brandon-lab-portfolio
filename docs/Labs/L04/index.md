@@ -1,3 +1,15 @@
+
+
+https://github.com/user-attachments/assets/6f14d12d-42a8-4d97-82f0-1e31a3244f9c
+
+
+
+https://github.com/user-attachments/assets/fa7a77c1-4979-4bd4-8446-03cf8e896e89
+
+
+
+https://github.com/user-attachments/assets/1a5e4898-1527-4b95-8787-0a1e13389045
+
 # A4 – Benchmark a Parameter
 
 ## Objective
