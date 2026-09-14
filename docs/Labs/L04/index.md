@@ -4,9 +4,9 @@
 
 The goal of this project was to choose a parameter to test the limits of the Prusa Core One 3D printer. This would determine if the standard design constraints were universal (for every printer) or if there were enough differences between printers to make these rules generally recommended but not exact. Consequently, this would lead to more knowledge of the limitations of the Prusa Core One, resulting in superior 3D printed parts in the future.
 
-## Analyze
+## Parameter
 
-**Parameter**
+**Analyze**
 
 Given the four following parameters, one was to be selected for testing:
 
@@ -19,12 +19,33 @@ For the purpose of this project, the overhang angle test was chosen. The standar
 
 **Prediction**
 
+The predicted result was a noticeable reduction in print quality starting at angles greater than 45 degrees. At 49-50 degrees the print would fail/collapse.
+
+## Design
+
+**Decide**
+
+<img width="1067" height="742" alt="image" src="https://github.com/user-attachments/assets/883db30d-d0f3-4ee5-a750-b790604520f5" />
+
+The test part was designed to test overhang angles of 40 to 50 degrees. Each overhang had a different angle, starting at 40 on the first and increasing by 1 degree for each overhang until reaching 50 degrees on the last.
+
+<img width="1917" height="1016" alt="Screenshot 2026-09-10 132716" src="https://github.com/user-attachments/assets/e97672bf-954c-4f5f-b9e0-4c55f161834c" />
+<img width="1917" height="1018" alt="Screenshot 2026-09-14 145403" src="https://github.com/user-attachments/assets/aead1aa9-d866-4255-8c3a-ac7989b90d44" />
+<img width="1917" height="343" alt="Screenshot 2026-09-14 145606" src="https://github.com/user-attachments/assets/bd54e632-3de5-4145-a3f0-13f9102912fc" />
+<img width="1917" height="342" alt="Screenshot 2026-09-14 145543" src="https://github.com/user-attachments/assets/d2fc45f5-2915-40aa-bd84-878f2f56872a" />
+<img width="1917" height="312" alt="Screenshot 2026-09-14 145519" src="https://github.com/user-attachments/assets/5be8937a-3b71-4acb-86c1-03caa6161d47" />
+
+The following slicer parameters were chosen:
+
+Infill: 15%, Grid pattern
+Build Orientation: Bottom face down (same as CAD)
+Supports: None
+Scale: X: 100% Y: 100% Z:100%
+
+**Design Process**
+
+<img width="1257" height="515" alt="image" src="https://github.com/user-attachments/assets/2244e8ff-b0d5-4061-a491-22262adf7dfa" />
 
 
-
-
-## Decide
-
-
-## Communicate
+**Communicate**
 
