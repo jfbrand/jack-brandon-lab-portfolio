@@ -81,6 +81,8 @@ Material: PETG
 
 Infill: The 15% density grid pattern infill was chosen because it is light and strength was not needed for this test. The purpose was simply to  test the capability of the printer to go beyond the 45 degree angle overhang and so strength was less important than print quality and finish. Furthermore, 15% density is a common infill density. 3D printed parts. The same is true of the grid infill: it is extremely common and in most slicers, standard unless changed, giving a good baseline for this test.
 
+Layer Height: .15 mm SPEED: Chosen to reduce print time and provide a worst case scenario for the test. A slower print speed would likely improve surface finish.
+
 Walls: 2 perimeter walls were chosen to provide a worst case scenario for the test. More walls would theoretically provide more support.
 
 Build orientation: The bottom side down build orientation was the only orientation that made sense for the printing of the test part. If it was printed in any other orientation, the overhangs would not be oriented correctly.
@@ -102,3 +104,17 @@ https://github.com/user-attachments/assets/6f14d12d-42a8-4d97-82f0-1e31a3244f9c
 ## Lessons Learned
 
 As can be seen from the photos, the overhangs performed better than my prediction. None of the overhangs experienced any severe sagging or failure. Viewing right to left in the photo, it can be seen that the print starts to diminish in quality as the angles get more horizontal. However, very little imperfections appear until 44/45 degrees. After the 45 degrees overhang, the face of the overhangs appear to get progressively more deformed with each step in angle. 
+
+The maximum overhang angle from the class design rules chart appears to be slightly conservative when using this test. All 11 of the overhangs printed without issue from a pure functionality perspective. Cosmetically, the overhangs faces appear to become rougher and less uniform at 45 degrees. This would indicate that the hard rule of overhangs being less than 45 degrees is only applicable to prints where a high level of surface finish quality is desired/required.
+
+In order to confirm the results of this test, wider overhangs with more surface area should be used. This would rule out any possible skewed results due to the relatively narrow (.25 in) width overhangs in this design. It is possible that the sagging effect would be more profound if there was less support from the edges of each overhang. Similarly, taller overhangs could have been used in the design to determine if that has an effect on the print quality. Another way to gauge the maximum overhang angle would be accounting for different wall thickness. In this part, the 2 perimeters setting was used for the wall thickness. If the the wall thickness was increased, it is likely that the overhangs would have had less imperfections. Lastly, using different layer thicknesses such .10 or .20 could have resulted in a higher or lower maximum overhang angle. With more test samples, a more conclusive result could be reached.
+
+This assignment took 8 hours from start to finish.
+
+## Resources
+
+1. Google Gemini - for questions regarding the effects of wall thickness on overhangs and print speed on surface finish.
+
+2. Class Design Rules for 3D Printing
+
+
