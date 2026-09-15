@@ -79,7 +79,7 @@ Finally, the material was extrude cut from each overhang, exposing the angle.
 
 Material: PETG
 
-Infill: The 15% density grid pattern infill was chosen because it is light and strength was not needed for this test. The purpose was simply to  test the capability of the printer to go beyond the 45 degree angle overhang and so strength was less important than print quality and finish. Furthermore, 15% density is a common infill density. 3D printed parts. The same is true of the grid infill: it is extremely common and in most slicers, standard unless changed, giving a good baseline for this test.
+Infill: The 15% density grid pattern infill was chosen because it is light and strength was not needed for this test. The purpose was simply to  test the capability of the printer to go beyond the 45 degree angle overhang and so strength was less important than print quality and finish. Furthermore, 15% density is a commonly used infill density. The same is true of the grid infill: it is extremely common and in most slicers, standard unless changed, giving a good baseline for this test.
 
 Layer Height: .15 mm SPEED: Chosen to reduce print time and provide a worst case scenario for the test. A slower print speed would likely improve surface finish.
 
