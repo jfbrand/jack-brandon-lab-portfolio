@@ -33,6 +33,8 @@ I decided to design a snap connector for a gear. The concept I had in mind was a
 
 <img width="492" height="450" alt="image" src="https://github.com/user-attachments/assets/9950bcf1-03fd-4f9c-9a8e-96664521fc98" />
 
+<img width="1700" height="645" alt="image" src="https://github.com/user-attachments/assets/6caa3eb4-b9a3-4edc-8d60-b7b4d5c0280c" />
+
 <img width="915" height="610" alt="image" src="https://github.com/user-attachments/assets/bf1113a0-019a-48f0-894c-c1c5b4abdee6" />
 
 <img width="1127" height="737" alt="image" src="https://github.com/user-attachments/assets/8a01bef5-2a06-4499-963e-ee63720d44cf" />
