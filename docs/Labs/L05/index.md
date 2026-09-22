@@ -6,7 +6,7 @@ The goal of this project was to design a snap fit assembly where two or more com
 
 ## Analyze
 
-The instructions were as follows:
+**Instructions**
 
 1. Parametrically design an assembly of two constituents which snap fit together.
 2. Use parameters in CAD
@@ -15,7 +15,7 @@ The instructions were as follows:
 5. Test the snap fit.
 6. Iterate if needed.
 
-Constraints/parameters:
+**Constraints**
 
 1. Safety factor of 3.5. 
 2. Transverse load between .25 lbf - 5 lbf.
@@ -29,6 +29,8 @@ I decided to design a snap connector for a gear. The concept I had in mind was a
 
 ## Communicate
 
+**Modeling**
+
 <img width="512" height="732" alt="image" src="https://github.com/user-attachments/assets/94f5bc00-dce9-4e42-a8d0-af2c5a751826" />
 
 First, the sketches were drawn of the rough geometry of the base of the pin. The cross sectional area in the calculations was simplified (I'll get into that later) compared to the actual geometry. 
@@ -41,9 +43,13 @@ Unknowns: Moment acting on each member, Second moment of inertia, Cross sectiona
 
 <img width="487" height="607" alt="image" src="https://github.com/user-attachments/assets/82d73342-601f-4840-909e-ed22996a992d" />
 
+Next, the cantilever beam stress equation was used to solve for the length of the pin. I assumed each member's cross section was similar enough to a semi cylinder for that equation to be used to solve for the moment of inertia, I. The same was done for the centroidal distance, c. Once these values were found, they could be plugged into the equation and the length could be found. The result was a length of 0.16 in.
 
+You will also notice some clearance notes I made below the bending equation. These were the clearance fits I used when deciding the hole size in the gear. More on this later.
 
 <img width="492" height="450" alt="image" src="https://github.com/user-attachments/assets/9950bcf1-03fd-4f9c-9a8e-96664521fc98" />
+
+
 
 <img width="1700" height="645" alt="image" src="https://github.com/user-attachments/assets/6caa3eb4-b9a3-4edc-8d60-b7b4d5c0280c" />
 
