@@ -127,7 +127,7 @@ Note the orientation of the base. I printed it this way so that the transverse f
 
 In my research I found that for a 3D printed flexure, you want to orient it so a force is never applied parallel to the layer lines. In my design for example, if it had been printed with the base oriented largest side down, it would have had layer lines along the length of the part. When using the snap fit pin, the transverse force acting on the flexures would have been parallel to these layer lines, possibly introducing a shear and delamination. To avoid this, I oriented the part to its side face so that the transverse force would be applied perpendicular to the layer lines. 
 
-https://github.com/user-attachments/assets/e2b71f4e-0263-4920-b0db-62037d655d9b
+<video src="[https://github.com/user-attachments/assets/...](https://github.com/user-attachments/assets/e2b71f4e-0263-4920-b0db-62037d655d9b)"></video>
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/da3a0a2e-4a67-4d9e-b73a-bcd0fa3e8b4d" />
 
