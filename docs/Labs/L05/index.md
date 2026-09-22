@@ -109,11 +109,11 @@ The teeth were extrude cut out of the gear.
 
 <img width="1917" height="800" alt="Screenshot 2026-09-21 150311" src="https://github.com/user-attachments/assets/c4b9765c-a199-490f-bc2c-b9d41252ca6f" />
 
-
-
 <img width="1917" height="312" alt="Screenshot 2026-09-21 150322" src="https://github.com/user-attachments/assets/af18b5d1-86a9-4a58-8306-1cf0e0647406" />
 
 <img width="1917" height="340" alt="Screenshot 2026-09-21 150337" src="https://github.com/user-attachments/assets/7a5dd4e7-cfa4-4c8a-8dcb-7a2c6f176a8a" />
+
+The slicer settings.
 
 <img width="1917" height="1020" alt="Screenshot 2026-09-21 150417" src="https://github.com/user-attachments/assets/c57e9fc0-7bbe-42d3-9268-44afa3d4ddbf" />
 
