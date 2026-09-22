@@ -53,25 +53,43 @@ The stress in the pin was found to be 1,678.69 psi which was less than 30% the y
 
 Lastly, both the axial stress and shear stress were calculated for the pin.
 
+**Parametrically Design**
+
 <img width="1700" height="645" alt="image" src="https://github.com/user-attachments/assets/6caa3eb4-b9a3-4edc-8d60-b7b4d5c0280c" />
 
-
+The parameters used in the design.
 
 <img width="915" height="610" alt="image" src="https://github.com/user-attachments/assets/bf1113a0-019a-48f0-894c-c1c5b4abdee6" />
 
+First I sketched the base geometry.
+
 <img width="1127" height="737" alt="image" src="https://github.com/user-attachments/assets/8a01bef5-2a06-4499-963e-ee63720d44cf" />
+
+Next I extruded the base.
 
 <img width="1026" height="527" alt="image" src="https://github.com/user-attachments/assets/ddd08b13-5ec7-4cf2-9595-965a3fab61df" />
 
+Then the pin was sketched. I started with a circle and then made drew a square in the center to create the two shapes.
+
 <img width="1132" height="747" alt="image" src="https://github.com/user-attachments/assets/e8ef704d-656c-495e-8c2c-a8ceac2dd74c" />
+
+The pin was extruded.
 
 <img width="1542" height="742" alt="image" src="https://github.com/user-attachments/assets/fececb24-0c33-4651-afbc-58369db0283d" />
 
+The edges were filleted.
+
 <img width="1085" height="572" alt="image" src="https://github.com/user-attachments/assets/c642f1db-0c3d-4045-a409-675ac896edd1" />
+
+The lip at the top of the pin was sketched.
 
 <img width="1012" height="667" alt="image" src="https://github.com/user-attachments/assets/bf217962-7efb-482c-9dd1-6c7fd0b0ecd6" />
 
+The lip was extruded.
+
 <img width="1461" height="685" alt="image" src="https://github.com/user-attachments/assets/87e7597e-1e83-4108-8396-976568ec6faa" />
+
+The lip was then filleted.
 
 <img width="1202" height="590" alt="image" src="https://github.com/user-attachments/assets/f9b83844-c2ac-4ef2-a866-55a655d05036" />
 
