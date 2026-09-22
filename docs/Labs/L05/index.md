@@ -131,6 +131,12 @@ https://github.com/user-attachments/assets/e2b71f4e-0263-4920-b0db-62037d655d9b
 
 ## Lessons Learned
 
-A few mistakes were made in the design of this part. First, was the clearance between the gear and pin. I believe that I overestimated the precision of the 3D printer, or simply made the features too small. Perhaps the layer height was too tall for the size of the features. Regardless, the result was a gear that did not spin as freely as I had hoped. Second, I would have liked for the lip on the top of the flexures to be more pronounced so that there was a more positive snap fit. I found that after only a couple uses, the lips wore down and made the snap fit less noticeable. This may have also been improved with stiffer flexures by using a 2 perimeter wall thickness rather than a 1.  
+A few mistakes were made in the design of this part. First, was the clearance between the gear and pin. I believe that I overestimated the precision of the 3D printer, or simply made the features too small. Perhaps the layer height was too tall for the size of the features. Regardless, the result was a gear that did not spin as freely as I had hoped. Second, I would have liked for the lip on the top of the flexures to be more pronounced so that there was a more positive snap fit. I found that after only a couple uses, the lips wore down and made the snap fit less noticeable. This may have also been improved with stiffer flexures by using a 2 perimeter wall thickness rather than a 1. This project took me roughly 8 hours to complete.
 
 **Resources**
+
+Google Gemini: for research on print orientation, and help finding I and c equations for semi cylinder.
+
+Chat GPT: For analyzing my work and checking for silly mistakes. 
+
+Lecture "Designing for Stress" slide.
