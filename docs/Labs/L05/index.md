@@ -23,7 +23,7 @@ Constraints/parameters:
    
 ## Decide
 
-I decided to design a snap connector for a gear. The concept I had in mind was a simple cylindrical pin with space between for the deformation to occur. A lip around the top would lock the gear in place. 
+I decided to design a snap connector for a gear. The concept I had in mind was a simple cylindrical pin with space between for the deformation to occur. A lip around the top would lock the gear in place. The gear would be snap fit to the base but still able to rotate.
 
 <img width="1030" height="661" alt="image" src="https://github.com/user-attachments/assets/805718aa-2f6b-4d26-9595-ae294943a698" />
 
@@ -31,7 +31,17 @@ I decided to design a snap connector for a gear. The concept I had in mind was a
 
 <img width="512" height="732" alt="image" src="https://github.com/user-attachments/assets/94f5bc00-dce9-4e42-a8d0-af2c5a751826" />
 
+First, the sketches were drawn of the rough geometry of the base of the pin. The cross sectional area in the calculations was loosely (I'll get into that later) on this geometry.
+
+The knowns and unknowns of the problem were stated to provide clarity and organization and were as follows:
+
+Knowns: Yield Strength (6000 psi), Safety factor (3.5), Transverse force (21 lbf), Axial force (5 lbf-10lbf), Inner radius (0.1 in), Outer radius (0.22), Center cut length (.186 in), and Center cut width (.073 in).
+
+Unknowns: Moment acting on each member, Second moment of inertia, Cross sectional area, Centroidal distance, and Length of the pin.
+
 <img width="487" height="607" alt="image" src="https://github.com/user-attachments/assets/82d73342-601f-4840-909e-ed22996a992d" />
+
+
 
 <img width="492" height="450" alt="image" src="https://github.com/user-attachments/assets/9950bcf1-03fd-4f9c-9a8e-96664521fc98" />
 
