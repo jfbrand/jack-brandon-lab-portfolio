@@ -57,7 +57,9 @@ Lastly, both the axial stress and shear stress were calculated for the pin.
 
 <img width="1700" height="645" alt="image" src="https://github.com/user-attachments/assets/6caa3eb4-b9a3-4edc-8d60-b7b4d5c0280c" />
 
-The parameters used in the design.
+The parameters used in the design were: YS (yield strength), I (second moment of inertia), Radius, Centroid, SF (safety factor), P (transverse force), and L (Length). 
+
+These specific parameters were chosen because they allow for the length to be calculated as a function of the material, force on the object, and its geometry. For example, the yield strength could be adjusted for PETG instead of PLA and the radius could be changed. The length, L of the flexure would be updated automatically to reflect these different values. The values chosen for this design were as follows: YS (6000 psi), Radius (0.1 in), SF (3.5), and P (2 lbf). The only value that changed throughout the process was the transverse force. This is because a few iterations were done to ensure that the pin would not be too long for the design intent.
 
 <img width="915" height="610" alt="image" src="https://github.com/user-attachments/assets/bf1113a0-019a-48f0-894c-c1c5b4abdee6" />
 
@@ -93,7 +95,7 @@ The lip was then filleted, top and bottom for ease of installation/removal of th
 
 <img width="1202" height="590" alt="image" src="https://github.com/user-attachments/assets/f9b83844-c2ac-4ef2-a866-55a655d05036" />
 
-I sketched the geometry for the gear.
+I sketched the geometry for the gear. I used the ISO H8 clearance fit to size the hole in the gear, 0.002 in. larger than the pin diameter. 
 
 <img width="852" height="527" alt="image" src="https://github.com/user-attachments/assets/967c38f5-bdc8-407d-969c-cfe8db43a96e" />
 
@@ -115,9 +117,11 @@ The teeth were extrude cut out of the gear.
 
 <img width="1917" height="340" alt="Screenshot 2026-09-21 150337" src="https://github.com/user-attachments/assets/7a5dd4e7-cfa4-4c8a-8dcb-7a2c6f176a8a" />
 
-The slicer settings.
+The slicer settings. I decided to try a 1 perimeter wall thickness to promote flexing of the part and a gyroid infill to provide the necessary isotropic strength. I used the 10% infill, again, to avoid an overly stiff part.
 
 <img width="1917" height="1020" alt="Screenshot 2026-09-21 150417" src="https://github.com/user-attachments/assets/c57e9fc0-7bbe-42d3-9268-44afa3d4ddbf" />
+
+Note the orientation of the base. I printed it this way so that the transverse force was perpendicular to the "grain" instead of parallel as it would be if printed in the standard orientation. This necessitated the use of supports for the pin flexures.
 
 https://github.com/user-attachments/assets/e2b71f4e-0263-4920-b0db-62037d655d9b
 
@@ -127,4 +131,6 @@ https://github.com/user-attachments/assets/e2b71f4e-0263-4920-b0db-62037d655d9b
 
 ## Lessons Learned
 
-**resources**
+A few mistakes were made in the design of this part. First, was the clearance between the gear and pin. I believe that I overestimated the precision of the 3D printer, or simply made the features too small. Perhaps the layer height was too tall for the size of the features. Regardless, the result was a gear that did not spin as freely as I had hoped. Second, I would have liked for the lip on the top of the flexures to be more pronounced so that there was a more positive snap fit. I found that after only a couple uses, the lips wore down and made the snap fit less noticeable. This may have also been improved with stiffer flexures by using a 2 perimeter wall thickness rather than a 1.  
+
+**Resources**
