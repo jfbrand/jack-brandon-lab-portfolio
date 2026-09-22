@@ -107,6 +107,8 @@ The teeth were drawn (no particular dimensions here). After sketching one tooth,
 
 The teeth were extrude cut out of the gear.
 
+**3D Printing and Test**
+
 <img width="1917" height="800" alt="Screenshot 2026-09-21 150311" src="https://github.com/user-attachments/assets/c4b9765c-a199-490f-bc2c-b9d41252ca6f" />
 
 <img width="1917" height="312" alt="Screenshot 2026-09-21 150322" src="https://github.com/user-attachments/assets/af18b5d1-86a9-4a58-8306-1cf0e0647406" />
