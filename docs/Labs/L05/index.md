@@ -33,6 +33,22 @@ I decided to design a snap connector for a gear. The concept I had in mind was a
 
 <img width="492" height="450" alt="image" src="https://github.com/user-attachments/assets/9950bcf1-03fd-4f9c-9a8e-96664521fc98" />
 
+<img width="915" height="610" alt="image" src="https://github.com/user-attachments/assets/bf1113a0-019a-48f0-894c-c1c5b4abdee6" />
+
+<img width="1127" height="737" alt="image" src="https://github.com/user-attachments/assets/8a01bef5-2a06-4499-963e-ee63720d44cf" />
+
+<img width="1026" height="527" alt="image" src="https://github.com/user-attachments/assets/ddd08b13-5ec7-4cf2-9595-965a3fab61df" />
+
+<img width="1132" height="747" alt="image" src="https://github.com/user-attachments/assets/e8ef704d-656c-495e-8c2c-a8ceac2dd74c" />
+
+<img width="1542" height="742" alt="image" src="https://github.com/user-attachments/assets/fececb24-0c33-4651-afbc-58369db0283d" />
+
+<img width="1085" height="572" alt="image" src="https://github.com/user-attachments/assets/c642f1db-0c3d-4045-a409-675ac896edd1" />
+
+<img width="1012" height="667" alt="image" src="https://github.com/user-attachments/assets/bf217962-7efb-482c-9dd1-6c7fd0b0ecd6" />
+
+<img width="1461" height="685" alt="image" src="https://github.com/user-attachments/assets/87e7597e-1e83-4108-8396-976568ec6faa" />
+
 <img width="1917" height="800" alt="Screenshot 2026-09-21 150311" src="https://github.com/user-attachments/assets/c4b9765c-a199-490f-bc2c-b9d41252ca6f" />
 
 <img width="1917" height="312" alt="Screenshot 2026-09-21 150322" src="https://github.com/user-attachments/assets/af18b5d1-86a9-4a58-8306-1cf0e0647406" />
