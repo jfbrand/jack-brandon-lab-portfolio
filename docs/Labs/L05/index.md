@@ -59,6 +59,8 @@ I decided to design a snap connector for a gear. The concept I had in mind was a
 
 https://github.com/user-attachments/assets/e2b71f4e-0263-4920-b0db-62037d655d9b
 
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/da3a0a2e-4a67-4d9e-b73a-bcd0fa3e8b4d" />
 
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/7547eec0-4d37-4435-8326-a22274af6686" />
 
 
