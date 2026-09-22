@@ -31,7 +31,7 @@ I decided to design a snap connector for a gear. The concept I had in mind was a
 
 <img width="512" height="732" alt="image" src="https://github.com/user-attachments/assets/94f5bc00-dce9-4e42-a8d0-af2c5a751826" />
 
-First, the sketches were drawn of the rough geometry of the base of the pin. The cross sectional area in the calculations was loosely (I'll get into that later) on this geometry.
+First, the sketches were drawn of the rough geometry of the base of the pin. The cross sectional area in the calculations was simplified (I'll get into that later) compared to the actual geometry. 
 
 The knowns and unknowns of the problem were stated to provide clarity and organization and were as follows:
 
