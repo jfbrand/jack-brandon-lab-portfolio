@@ -81,7 +81,7 @@ The edges were filleted.
 
 <img width="1085" height="572" alt="image" src="https://github.com/user-attachments/assets/c642f1db-0c3d-4045-a409-675ac896edd1" />
 
-The lip at the top of the pin was sketched.
+The lip at the top of the pin was sketched. Note: this was done in essentially the same way as the base but with the slightly larger radius.
 
 <img width="1012" height="667" alt="image" src="https://github.com/user-attachments/assets/bf217962-7efb-482c-9dd1-6c7fd0b0ecd6" />
 
@@ -89,9 +89,11 @@ The lip was extruded.
 
 <img width="1461" height="685" alt="image" src="https://github.com/user-attachments/assets/87e7597e-1e83-4108-8396-976568ec6faa" />
 
-The lip was then filleted.
+The lip was then filleted, top and bottom for ease of installation/removal of the gear.
 
 <img width="1202" height="590" alt="image" src="https://github.com/user-attachments/assets/f9b83844-c2ac-4ef2-a866-55a655d05036" />
+
+
 
 <img width="852" height="527" alt="image" src="https://github.com/user-attachments/assets/967c38f5-bdc8-407d-969c-cfe8db43a96e" />
 
