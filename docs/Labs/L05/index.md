@@ -125,4 +125,6 @@ https://github.com/user-attachments/assets/e2b71f4e-0263-4920-b0db-62037d655d9b
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/7547eec0-4d37-4435-8326-a22274af6686" />
 
+## Lessons Learned
 
+**resources**
