@@ -25,6 +25,8 @@ Constraints/parameters:
 
 I decided to design a snap connector for a gear. The concept I had in mind was a simple cylindrical pin with space between for the deformation to occur. A lip around the top would lock the gear in place. 
 
+<img width="1030" height="661" alt="image" src="https://github.com/user-attachments/assets/805718aa-2f6b-4d26-9595-ae294943a698" />
+
 ## Communicate
 
 <img width="512" height="732" alt="image" src="https://github.com/user-attachments/assets/94f5bc00-dce9-4e42-a8d0-af2c5a751826" />
