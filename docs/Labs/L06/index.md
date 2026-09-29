@@ -16,6 +16,8 @@ Test your design, if it does not fit properly redo.
 
 ## Decide
 
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/5dd8abbe-72f9-4b07-92a6-f41137825b9d" />
+
 For this project I chose a small DC motor for my artifact. The motor had 2 small holes for screws on  its body and I decided that those would be perfect places for my snap fit pins 
 
 ## Communicate
@@ -97,6 +99,8 @@ Design modifications: the original top snap extrusions had too much overhang fro
 
 <video src="https://github.com/user-attachments/assets/6d56c7ac-cb52-49c9-a78a-156e1b4f16a3" controls="controls" style="max-width: 100%;">
 </video>
+
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/1160791b-868a-4cf2-af98-5cfa106d49da" />
 
 **Lessons Learned**
 
