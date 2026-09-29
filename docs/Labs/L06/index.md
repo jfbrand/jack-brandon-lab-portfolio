@@ -66,7 +66,7 @@ I chose a safety factor of 3 because it would more than suffice for the purpose 
 
 **Documentation**
 
-Machine: PC-12
+Machine: Prusa Core #PC-15
 
 Print Size: 2" X .305" X 1.5
 
