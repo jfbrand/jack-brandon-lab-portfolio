@@ -78,7 +78,11 @@ Here was the sketch for the recessed holes mentioned earlier. They were made .12
 
 <img width="637" height="742" alt="image" src="https://github.com/user-attachments/assets/f7e9446f-adcf-4982-afec-f96ac19d4b79" />
 
+Both the flexures and the cuts had to be extrude cut as well to the depth of the recessed holes.
+
 <img width="672" height="697" alt="image" src="https://github.com/user-attachments/assets/4feb7b2b-b4d3-4250-9339-dfa94916a4c4" />
+
+The finished CAD model.
 
 **Documentation**
 
