@@ -97,6 +97,11 @@ Design modifications: the original top snap extrusions had too much overhang fro
 
 
 
+
+
+<video src="https://github.com/user-attachments/assets/c72de386-6e84-44e3-9d4c-1e0fe46288cc" controls="controls" style="max-width: 100%;">
+</video>
+
 **Lessons Learned**
 
 
