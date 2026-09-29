@@ -58,6 +58,8 @@ A center point rectangle was used to create an axial cut in the cylinder to crea
 
 <img width="717" height="656" alt="image" src="https://github.com/user-attachments/assets/427c50e1-30c1-43f4-923c-50132c8e42e0" />
 
+In order to create the clearance needed for the motor shaft, a circular cut was made toward the top of the motor mount.
+
 <img width="670" height="742" alt="image" src="https://github.com/user-attachments/assets/d22fa437-89fb-49ae-a356-606ba6f75cc3" />
 
 <img width="622" height="757" alt="image" src="https://github.com/user-attachments/assets/c30bd388-b86f-4ca8-80bb-3803e6bb3c89" />
