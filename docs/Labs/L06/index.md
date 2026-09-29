@@ -66,6 +66,8 @@ In order to create the clearance needed for the motor shaft, a circular cut was 
 
 <img width="782" height="717" alt="image" src="https://github.com/user-attachments/assets/85c7d550-f4ee-4c59-87e8-79d65c3c787c" />
 
+Here the lip on the cylinder was chamfered to facilitate assembly.
+
 <img width="697" height="532" alt="image" src="https://github.com/user-attachments/assets/fac54788-2378-4aeb-b070-32238bc5efbd" />
 
 <img width="607" height="730" alt="image" src="https://github.com/user-attachments/assets/5cdd0cfa-91a6-4a1e-b74b-3725c9e5979a" />
