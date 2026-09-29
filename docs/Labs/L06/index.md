@@ -16,11 +16,9 @@ Test your design, if it does not fit properly redo.
 
 For this project I chose a small DC motor for my artifact. The motor had 2 small holes for screws on  its body and I decided that those would be perfect places for my snap fit pins 
 
-## Decide
-
 <img width="1497" height="600" alt="image" src="https://github.com/user-attachments/assets/b7956e30-27d5-4839-9934-3f19a79025d8" />
 
-**Parameters**
+**Parametrically Design**
 
 The parameters used were yield strength of PETG (YS), second moment of inertia of a semi cylinder (I), radius, centroid, safety factor (SF), transverse load (P), and length of the flexures (L).
 
@@ -30,3 +28,4 @@ I chose a safety factor of 3 because it would more than suffice for the purpose 
 
 ## Communicate
 
+<img width="672" height="697" alt="image" src="https://github.com/user-attachments/assets/4feb7b2b-b4d3-4250-9339-dfa94916a4c4" />
