@@ -42,6 +42,8 @@ I chose a safety factor of 3 because it would more than suffice for the purpose 
 
 <img width="802" height="747" alt="image" src="https://github.com/user-attachments/assets/19ca3c03-7c6e-4e2f-8a94-1534e7b2e77c" />
 
+Note: here I was only extruding the flexure to account for the thickness of the metal tab where the hole was, I later extrude cut recessed holes into the mount to add another .125 in of flexure length. This was done to allow more deformation.
+
 <img width="852" height="546" alt="image" src="https://github.com/user-attachments/assets/6bd9ae5a-1abb-4d96-b0a2-69713e5ff4b4" />
 
 <img width="716" height="737" alt="image" src="https://github.com/user-attachments/assets/acdce575-6ebe-4f28-b71f-d1596f35c7e1" />
