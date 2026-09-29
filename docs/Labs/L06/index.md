@@ -35,16 +35,28 @@ I chose a safety factor of 3 because it would more than suffice for the purpose 
 **Documentation**
 
 Machine: PC-12
+
 Print Size: 2" X .305" X 1.5
+
 Layout: Auto
+
 Build Orientation: The part was oriented with the flexures parallel to the build plate in order to avoid shear stress between layers.
+
 Supports: "Support on build plate only" due to not wanting supports inside the recessed holes of the motor mount.
+
 Wall thickness: 2 perimeters.
+
 Layers: 381 (.10mm) layers
-Layer thickness? .10 mm
+
+Layer thickness: .10 mm
+
 Build Volume: .33 cubic inches
-Slicer settings: .10mm layer height- in order to facilitate the level of precision and detail required for the snap fit. 10% infill- More infill wasn't necessary given the lack of stress on the part. Grid infill- sufficient for the function of the part. 2 Perimeters- provided the necessary stiffness to the flexures. 
-Support removal: the supports were easily removed by hand. 
+
+Slicer settings: .10mm layer height- in order to facilitate the level of precision and detail required for the snap fit. 10% infill- More infill wasn't necessary 
+given the lack of stress on the part. Grid infill- sufficient for the function of the part. 2 Perimeters- provided the necessary stiffness to the flexures.
+
+Support removal: the supports were easily removed by hand.
+
 Design modifications: the original top snap extrusions had too much overhang from the flexure and prevented the flexures from fitting into the holes in the motor. The diameter was decreased to a size only slightly larger than the nominal diameter of the holes.
 
 **Show and Tell**
