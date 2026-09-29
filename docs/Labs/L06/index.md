@@ -52,6 +52,8 @@ Here the larger diameter notch was created on the top of the cylinder to create 
 
 <img width="822" height="632" alt="image" src="https://github.com/user-attachments/assets/d514150a-6e4b-4f8d-8fda-e85bcac7bb74" />
 
+A center point rectangle was used to create an axial cut in the cylinder to create 2 separate parts.
+
 <img width="640" height="737" alt="image" src="https://github.com/user-attachments/assets/82847906-a021-4e35-acaf-7fe2c3852895" />
 
 <img width="717" height="656" alt="image" src="https://github.com/user-attachments/assets/427c50e1-30c1-43f4-923c-50132c8e42e0" />
