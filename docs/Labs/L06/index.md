@@ -70,6 +70,8 @@ Here the lip on the cylinder was chamfered to facilitate assembly.
 
 <img width="697" height="532" alt="image" src="https://github.com/user-attachments/assets/fac54788-2378-4aeb-b070-32238bc5efbd" />
 
+Here was the sketch for the recessed holes mentioned earlier. They were made .125 in deep into the mount.
+
 <img width="607" height="730" alt="image" src="https://github.com/user-attachments/assets/5cdd0cfa-91a6-4a1e-b74b-3725c9e5979a" />
 
 <img width="605" height="717" alt="image" src="https://github.com/user-attachments/assets/0fab3712-4ea6-4078-80f5-55724c5fb812" />
