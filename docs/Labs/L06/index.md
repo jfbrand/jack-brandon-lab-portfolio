@@ -122,4 +122,6 @@ Design modifications: the original top snap extrusions had too much overhang fro
 
 **Lessons Learned**
 
+The main issue I faced when designing the mount was the original length of the flexures being too long due to the parametric calculations. This could have been avoided if I had instead designed with the length and diameter as constraints first and then solved for the width of the cut, therefore solving for the stiffness. Also, I ran into an issue with my first prototype having a lip on the flexures that had too large of a diameter, which made it impossible to assemble. I also believe that the final design could have implemented either more stiffness (large cross section-smaller cut), and a slightly larger lip. I made the diameter of the lip 2 thou larger than than the nominal diameter of the hole and it probably could have been slightly larger to improve the strength of the snap fit. Overall, I found that the geometry I used for the flexures created many challenging obstacles in the parametric design process that could have been improved upon. Essentially, the cylindrical cross section limited the overhang of the lip due to it having to fit through the hole in the motor. I think a cross section with the top and bottom of the circle made flat would allow for a larger overhang and improve the snap fit.
 
+This project took 9 hours to complete.
