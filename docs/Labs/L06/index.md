@@ -32,6 +32,8 @@ I chose the parameters because I wanted to be able to calculate the proper flexu
 
 I chose a safety factor of 3 because it would more than suffice for the purpose of this project and I chose the radius because it was the required dimension to fit the holes on the motor. Lastly the transverse load was set to 1 lbf as a reasonable assumption of the force required to deflect the flexure. The length of the flexures was found to be too long to facilitate a tight mate between the motor mount and motor. The calculated length of .196 in was replaced by .18 in for this reason.
 
+<img width="581" height="407" alt="image" src="https://github.com/user-attachments/assets/cf57050f-0dae-47b6-9c8d-3af38ce9dc73" />
+
 <img width="1186" height="266" alt="image" src="https://github.com/user-attachments/assets/0c046473-acf5-4f2b-b2bf-be084c356a40" />
 
 <img width="722" height="726" alt="image" src="https://github.com/user-attachments/assets/1b822852-5aa7-45af-bf4b-16cc8a10c528" />
