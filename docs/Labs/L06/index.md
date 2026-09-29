@@ -46,6 +46,8 @@ Note: here I was only extruding the flexure to account for the thickness of the 
 
 <img width="852" height="546" alt="image" src="https://github.com/user-attachments/assets/6bd9ae5a-1abb-4d96-b0a2-69713e5ff4b4" />
 
+Here the larger diameter notch was created on the top of the cylinder to create the snap fit.
+
 <img width="716" height="737" alt="image" src="https://github.com/user-attachments/assets/acdce575-6ebe-4f28-b71f-d1596f35c7e1" />
 
 <img width="822" height="632" alt="image" src="https://github.com/user-attachments/assets/d514150a-6e4b-4f8d-8fda-e85bcac7bb74" />
