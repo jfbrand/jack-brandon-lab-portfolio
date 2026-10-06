@@ -83,11 +83,11 @@ The tolerance of the pin/hole diameter was ten thousandths of an inch. For the h
 <video src="https://github.com/user-attachments/assets/689525ed-704b-478c-a25f-95d87204fb31" controls="controls" style="max-width: 100%;">
 </video>
 
-<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/df38b339-b013-44a2-b06f-6dc765c0e516" />
+<img width="600" height="1100" alt="image" src="https://github.com/user-attachments/assets/df38b339-b013-44a2-b06f-6dc765c0e516" />
 
-<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/f6b90f3d-f56c-4b15-9b12-833d6b13a48a" />
+<img width="600" height="1100" alt="image" src="https://github.com/user-attachments/assets/f6b90f3d-f56c-4b15-9b12-833d6b13a48a" />
 
-<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/c5f41d19-07b1-41a5-aab3-9081780d6ada" />
+<img width="600" height="1100" alt="image" src="https://github.com/user-attachments/assets/c5f41d19-07b1-41a5-aab3-9081780d6ada" />
 
 ## Lessons Learned
 
