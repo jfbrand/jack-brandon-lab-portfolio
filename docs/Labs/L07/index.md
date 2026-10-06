@@ -59,5 +59,5 @@ Uses: This linkage would be useful in unmanned vehicles and low-load industrial 
 <img width="926" height="365" alt="image" src="https://github.com/user-attachments/assets/650cb8a3-1788-4b34-98ae-4f65052e4446" />
 
 
-## Communicate
+## 3D Print
 
