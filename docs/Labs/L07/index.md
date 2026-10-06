@@ -43,7 +43,9 @@ Uses: This linkage would be useful in unmanned vehicles and low-load industrial 
 | Output Link 1 | Output lever with pins | Printed |
 | Output Link 2 | Output lever with holes | Printed |
 
-**Tolerances:** For each moving interface (pin-in-hole, sliding fit, and so on), state the clearance you designed in. Explain how you arrived at it: test prints, fit tables from Machinery's Handbook, or both.
+**Tolerances:** 
+
+The tolerance of the pin/hole diameter was ten thousandths of an inch. For the height of the pin/thickness of the link the tolerance was fifteen thousandths of an inch. These were chosen to ensure a clearance/running fit with minimal friction given the relatively rough surfaces of the 3d printed components. The values of the tolerance were determined through research and trial and error with other projects during the semester.
 
 **Design decisions:** Describe at least three key decisions. For each, list the alternatives you considered and explain why you chose the one you did.
 
