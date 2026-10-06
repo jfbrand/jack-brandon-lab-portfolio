@@ -32,6 +32,7 @@ Uses: This linkage would be useful in unmanned vehicles and low-load industrial 
 
 ## Design
 
+<img width="967" height="456" alt="image" src="https://github.com/user-attachments/assets/98015b3f-a571-4115-932a-fa1f092115c6" />
 
 ## Communicate
 
