@@ -49,9 +49,9 @@ The tolerance of the pin/hole diameter was ten thousandths of an inch. For the h
 
 **Design decisions:**
 
-1. Pin joints: these were chosen to create a linkage mechanism that did not require hardware and could be easily assembled/disassembled without tools.
-2. Simple design: the linkage was left simple to provide a proof of concept and a modular design that could be scaled up or down and modified for different applications.
-3. Thin and lightweight construction: the links were made relatively narrow and thin to create a light weight and relatively lightweight assembly.
+1. **Pin joints:** these were chosen to create a linkage mechanism that did not require hardware and could be easily assembled/disassembled without tools.
+2. **Simple design:** the linkage was left simple to provide a proof of concept and a modular design that could be scaled up or down and modified for different applications.
+3. **Thin and lightweight construction:** the links were made relatively narrow and thin to create a light weight and relatively lightweight assembly.
 
 <img width="981" height="470" alt="image" src="https://github.com/user-attachments/assets/d1fdd72f-c650-450d-9ea8-6ba23c1a28c9" />
 
@@ -80,9 +80,11 @@ The tolerance of the pin/hole diameter was ten thousandths of an inch. For the h
 
 <img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/60351daa-5ddd-4680-b457-3ec334135985" />
 
+
+
 ## Lessons Learned
 
-**Time:** How many hours did the project take from start to finish? Break them down into research, CAD, slicing, printing, post-processing and assembly. How did the total compare with what you expected?
+**Time:** This assignment took roughly 6 hours to complete. An hour was spent researching linkages, two were spent designing the CAD model, 20 minutes were spent in the slicer, seventeen were spent printing the design, post-processing and assembly. How did the total compare with what you expected?
 
 **Biggest mistake:** What was your most significant mistake or failure? What was the root cause, how did you find it, and how did you fix it?
 
