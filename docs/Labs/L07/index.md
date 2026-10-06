@@ -32,9 +32,14 @@ Uses: This linkage would be useful in unmanned vehicles and low-load industrial 
 
 ## Design
 
-**Purpose:** What does your mechanism do, and why did you choose to design it?
+**Purpose:** The mechanism was a simple 4 bar linkage that transmitted a scissor motion output a distance from the input. I chose this mechanism because I saw it as the most practical implementation of a linkage as it has been used in countless applications all over the world. 
 
-**Components:** Give a table listing each component, its function, and whether it is printed or purchased.
+**Components:** 
+
+| Component | Function | Printed/Purchased |
+| --- | --- | --- |
+| Cell 1 | Cell 2 | Cell 3 |
+| Cell 4 | Cell 5 | Cell 6 |
 
 **Tolerances:** For each moving interface (pin-in-hole, sliding fit, and so on), state the clearance you designed in. Explain how you arrived at it: test prints, fit tables from Machinery's Handbook, or both.
 
