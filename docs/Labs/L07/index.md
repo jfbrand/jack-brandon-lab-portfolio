@@ -38,8 +38,10 @@ Uses: This linkage would be useful in unmanned vehicles and low-load industrial 
 
 | Component | Function | Printed/Purchased |
 | --- | --- | --- |
-| Cell 1 | Cell 2 | Cell 3 |
-| Cell 4 | Cell 5 | Cell 6 |
+| Input Link 1 | Input lever with pins | Printed |
+| Input Link 2 | Input lever with holes | Printed |
+| Output Link 1 | Output lever with pins | Printed |
+| Output Link 2 | Output lever with holes | Printed |
 
 **Tolerances:** For each moving interface (pin-in-hole, sliding fit, and so on), state the clearance you designed in. Explain how you arrived at it: test prints, fit tables from Machinery's Handbook, or both.
 
