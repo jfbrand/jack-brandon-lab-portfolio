@@ -34,5 +34,22 @@ Uses: This linkage would be useful in unmanned vehicles and low-load industrial 
 
 <img width="981" height="470" alt="image" src="https://github.com/user-attachments/assets/d1fdd72f-c650-450d-9ea8-6ba23c1a28c9" />
 
+<img width="652" height="232" alt="image" src="https://github.com/user-attachments/assets/59ae24fc-3128-4bbe-89aa-a256e90a798b" />
+
+<img width="622" height="340" alt="image" src="https://github.com/user-attachments/assets/8e6f5cab-2ead-4072-9026-eaf9a07be018" />
+
+<img width="697" height="245" alt="image" src="https://github.com/user-attachments/assets/9b53079a-ac6f-4612-a256-07b016d84da8" />
+
+<img width="631" height="352" alt="image" src="https://github.com/user-attachments/assets/46b43c91-4e9f-4f54-a570-61fa697c7e6a" />
+
+<img width="567" height="122" alt="image" src="https://github.com/user-attachments/assets/b9907e63-f0d7-4fe6-80f0-f27a0455f0ac" />
+
+<img width="635" height="332" alt="image" src="https://github.com/user-attachments/assets/7906f5a4-8660-4770-80c6-86eefd0e4da9" />
+
+<img width="486" height="326" alt="image" src="https://github.com/user-attachments/assets/44a242d2-7272-4ec1-be84-2649e7f2bed7" />
+
+<img width="926" height="365" alt="image" src="https://github.com/user-attachments/assets/650cb8a3-1788-4b34-98ae-4f65052e4446" />
+
+
 ## Communicate
 
