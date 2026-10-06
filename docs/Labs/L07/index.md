@@ -64,5 +64,7 @@ Uses: This linkage would be useful in unmanned vehicles and low-load industrial 
 ## Lessons Learned
 
 **Time:** How many hours did the project take from start to finish? Break them down into research, CAD, slicing, printing, post-processing and assembly. How did the total compare with what you expected?
+
 **Biggest mistake:** What was your most significant mistake or failure? What was the root cause, how did you find it, and how did you fix it?
+
 **Tolerances:** Did your first-print clearances work? What would you change, and by how much?
