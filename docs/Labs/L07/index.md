@@ -91,8 +91,8 @@ The tolerance of the pin/hole diameter was ten thousandths of an inch. For the h
 
 ## Lessons Learned
 
-**Time:** This assignment took roughly 4 hours to complete. An hour was spent researching linkages, two were spent designing the CAD model, 20 minutes were spent in the slicer, seventeen were spent printing the design, and 20 minutes post-processing and assembly. How did the total compare with what you expected?
+**Time:** This assignment took roughly 5 hours to complete. An hour was spent researching linkages, two were spent designing the CAD model, 20 minutes were spent in the slicer, seventeen were spent printing the design, and 20 minutes post-processing and assembly. Lastly an hour was spent doing the writeup. Overall, this was about the amount of time that I expected to spend doing the assignment.
 
-**Biggest mistake:** What was your most significant mistake or failure? What was the root cause, how did you find it, and how did you fix it?
+**Biggest mistake:** The biggest mistake made during this project was originally not designing a linkage. My first design was a simple hinge joint mechanism with only two links. After doing more research I realized that I needed more links in order for the design to qualify as a linkage mechanism. However, I was fortunate in that I had been working on my snap fit pin design in the last two projects and so adapting that design to work for a linkage mechanism was very straightforward.
 
-**Tolerances:** Did your first-print clearances work? What would you change, and by how much?
+**Tolerances:** As I mentioned previously, I had been working on my snap fit pin design for some time before this project. With each iteration of the design I was incrementally improving and perfecting the design. In this iteration I kept the same nominal diameter of the flexure pin (.020 in). However for this implementation, I reduced the width of the gap between the two "semi" cylinders to increase the stiffness. I also Increased the height by five thousandths to provide more clearance for the links to pivot around the pins. Lastly, in order to ensure a positive snap fit I also slightly increased the diameter of the top ridge around the cylinder by 
