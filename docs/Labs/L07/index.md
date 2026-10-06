@@ -30,7 +30,7 @@ Source: https://www.mdpi.com/2075-1702/13/3/250
 
 Uses: This linkage would be useful in unmanned vehicles and low-load industrial applications due to its simplicity and low cost.
 
-## Decide
+## Design
 
 
 ## Communicate
