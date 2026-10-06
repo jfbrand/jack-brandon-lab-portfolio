@@ -20,13 +20,15 @@ Uses: This mechanism could be used for deploying temporary bridges or non-perman
 
 Source: https://link.springer.com/article/10.1186/s40648-025-00289-3
 
-2. Exact Eight-Bar TMJ Simulator Linkages (2026)
+2. Novel Compliant Four-Bar Mechanism-Based Universal Joint Design
 
-<img width="500" height="211" alt="image" src="https://github.com/user-attachments/assets/053de7ba-8c2c-4593-aed6-b8eec2655360" />
+<img width="550" height="299" alt="image" src="https://github.com/user-attachments/assets/65a37f73-74b4-4d5b-9782-a4a1f5e18a76" />
 
+This linkage works by two mirrored four-bar linkages linked to a center link. Instead of using solid links with joints, there are flexures connecting the links together. The bottom of the center link is the input for the linkage and the top is the output. This allows for adjustment in the angle between the input and output links.
 
+Source: https://www.mdpi.com/2075-1702/13/3/250
 
-Source: https://dl.acm.org/doi/10.1145/3719477.3719481
+Uses: This linkage would be useful in unmanned vehicles and low-load industrial applications due to its simplicity and low cost.
 
 ## Decide
 
