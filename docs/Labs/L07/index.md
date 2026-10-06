@@ -32,6 +32,11 @@ Uses: This linkage would be useful in unmanned vehicles and low-load industrial 
 
 ## Design
 
+**Purpose:** What does your mechanism do, and why did you choose to design it?
+**Components:** Give a table listing each component, its function, and whether it is printed or purchased.
+**Tolerances:** For each moving interface (pin-in-hole, sliding fit, and so on), state the clearance you designed in. Explain how you arrived at it: test prints, fit tables from Machinery's Handbook, or both.
+**Design decisions:** Describe at least three key decisions. For each, list the alternatives you considered and explain why you chose the one you did.
+
 <img width="981" height="470" alt="image" src="https://github.com/user-attachments/assets/d1fdd72f-c650-450d-9ea8-6ba23c1a28c9" />
 
 <img width="652" height="232" alt="image" src="https://github.com/user-attachments/assets/59ae24fc-3128-4bbe-89aa-a256e90a798b" />
