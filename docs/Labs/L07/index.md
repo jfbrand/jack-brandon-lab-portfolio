@@ -91,7 +91,7 @@ The tolerance of the pin/hole diameter was ten thousandths of an inch. For the h
 
 ## Lessons Learned
 
-**Time:** This assignment took roughly 6 hours to complete. An hour was spent researching linkages, two were spent designing the CAD model, 20 minutes were spent in the slicer, seventeen were spent printing the design, post-processing and assembly. How did the total compare with what you expected?
+**Time:** This assignment took roughly 4 hours to complete. An hour was spent researching linkages, two were spent designing the CAD model, 20 minutes were spent in the slicer, seventeen were spent printing the design, and 20 minutes post-processing and assembly. How did the total compare with what you expected?
 
 **Biggest mistake:** What was your most significant mistake or failure? What was the root cause, how did you find it, and how did you fix it?
 
