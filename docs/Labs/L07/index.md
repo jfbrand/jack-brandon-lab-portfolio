@@ -51,7 +51,7 @@ The tolerance of the pin/hole diameter was ten thousandths of an inch. For the h
 
 1. **Pin joints:** these were chosen to create a linkage mechanism that did not require hardware and could be easily assembled/disassembled without tools.
 2. **Simple design:** the linkage was left simple to provide a proof of concept and a modular design that could be scaled up or down and modified for different applications.
-3. **Thin and lightweight construction:** the links were made relatively narrow and thin to create a light weight and relatively lightweight assembly.
+3. **Thin and lightweight construction:** the links were made relatively thin and narrow to create a light weight and compact assembly.
 
 <img width="981" height="470" alt="image" src="https://github.com/user-attachments/assets/d1fdd72f-c650-450d-9ea8-6ba23c1a28c9" />
 
