@@ -47,7 +47,11 @@ Uses: This linkage would be useful in unmanned vehicles and low-load industrial 
 
 The tolerance of the pin/hole diameter was ten thousandths of an inch. For the height of the pin/thickness of the link the tolerance was fifteen thousandths of an inch. These were chosen to ensure a clearance/running fit with minimal friction given the relatively rough surfaces of the 3d printed components. The values of the tolerance were determined through research and trial and error with other projects during the semester.
 
-**Design decisions:** Describe at least three key decisions. For each, list the alternatives you considered and explain why you chose the one you did.
+**Design decisions:**
+
+1. Pin joints: these were chosen to create a linkage mechanism that did not require hardware and could be easily assembled/disassembled without tools.
+2. Simple design: the linkage was left simple to provide a proof of concept and a modular design that could be scaled up or down and modified for different applications.
+3. Thin and lightweight construction: the links were made relatively narrow and thin to create a light weight and relatively lightweight assembly.
 
 <img width="981" height="470" alt="image" src="https://github.com/user-attachments/assets/d1fdd72f-c650-450d-9ea8-6ba23c1a28c9" />
 
