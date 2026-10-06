@@ -61,6 +61,12 @@ Uses: This linkage would be useful in unmanned vehicles and low-load industrial 
 
 ## 3D Print
 
+<img width="797" height="835" alt="image" src="https://github.com/user-attachments/assets/92550538-9efd-4c04-826c-c77ae66aa415" />
+
+<img width="607" height="632" alt="image" src="https://github.com/user-attachments/assets/132fab9b-25e0-4a5d-bf49-e0693a595ffe" />
+
+<img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/60351daa-5ddd-4680-b457-3ec334135985" />
+
 ## Lessons Learned
 
 **Time:** How many hours did the project take from start to finish? Break them down into research, CAD, slicing, printing, post-processing and assembly. How did the total compare with what you expected?
