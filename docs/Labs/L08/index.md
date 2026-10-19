@@ -91,7 +91,7 @@ The completed assembly.
 9. Build volume: 1.15 in^3
 10. Support surface finish: rough
 11. Layout: hinge features facing right, with halves next to each other
-12. Build orientation: hinge features facing up, so that flat face was down
+12. Build orientation: hinge features facing up, so that flat faces were down
 13. Slicer settings: standard slicer settings except for addition of supports
 14. Slice information:
   a. Used filament: 23.95 g, 308.64 in, 1.15 in^3
