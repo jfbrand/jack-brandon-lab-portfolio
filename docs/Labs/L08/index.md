@@ -81,16 +81,23 @@ The completed assembly.
 <img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/5d79ff9f-0395-4d69-bd24-31d92de2af35" />
 
 1. Machine number:
-2. Raft: 
-3. Wall thickness:
-4. Infill:
-5. Supports:
-6. Support removal:
-7. Layers:
-8. Layer thickness:
-9. Build volume:
-10. Support surface finish:
-11. Layout:
-12. Build orientation:
-13. Slicer settings:
+2. Raft: not used
+3. Wall thickness: 2 perimeters
+4. Infill: 15%
+5. Supports: on build plate only. Necessary for hinge pins. Used standard supports.
+6. Support removal: removed by hand.
+7. Layers: 76
+8. Layer thickness: .15 mm
+9. Build volume: 1.15 in^3
+10. Support surface finish: rough
+11. Layout: hinge features facing right, with halves next to each other
+12. Build orientation: hinge features facing up, so that flat face was down
+13. Slicer settings: standard slicer settings except for addition of supports
 14. Slice information:
+  a. Used filament: 23.95 g, 308.64 in, 1.15 in^3
+  b. Cost: 0.67
+  c. Estimated printing time:
+      -normal mode: 50m
+      -stealth mode- 1h0m
+      
+## Lessons Learned
