@@ -32,7 +32,11 @@ The base was extruded to .25 in.
 
 <img width="860" height="375" alt="image" src="https://github.com/user-attachments/assets/872aa1e1-8144-4b7e-9c1a-83ee4cae9778" />
 
+The edges were filleted.
+
 <img width="1212" height="485" alt="image" src="https://github.com/user-attachments/assets/6de5cba3-8e82-4486-b763-66fd23ec661b" />
+
+
 
 <img width="1226" height="442" alt="image" src="https://github.com/user-attachments/assets/050f43a5-f5a0-4fb4-8d19-0c95b36f9459" />
 
