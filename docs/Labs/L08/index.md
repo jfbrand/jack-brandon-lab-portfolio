@@ -42,6 +42,8 @@ Asking smart questions can make the difference between a good product or a faile
 
 <img width="617" height="522" alt="image" src="https://github.com/user-attachments/assets/ba42843f-e80c-43ef-be39-05a268e3e2d1" />
 
+The hole dimension was .135 in, 1 thou larger than the pin size. This tolerance was chosen to allow free movement at the hinge and easy assembly/disassembly.
+
 <img width="487" height="496" alt="image" src="https://github.com/user-attachments/assets/8ecca01f-b3c0-4da0-b0f8-9aedcd65e011" />
 
 <img width="1092" height="497" alt="image" src="https://github.com/user-attachments/assets/7da7356b-d370-46b7-b5ce-07a70f0936b4" />
