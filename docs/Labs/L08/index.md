@@ -75,3 +75,22 @@ The completed halves of the stand.
 <img width="1097" height="491" alt="image" src="https://github.com/user-attachments/assets/676c65d1-5d5c-4401-a208-669f58776bd8" />
 
 The completed assembly.
+
+## 3D Print
+
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/5d79ff9f-0395-4d69-bd24-31d92de2af35" />
+
+1. Machine number:
+2. Raft: 
+3. Wall thickness:
+4. Infill:
+5. Supports:
+6. Support removal:
+7. Layers:
+8. Layer thickness:
+9. Build volume:
+10. Support surface finish:
+11. Layout:
+12. Build orientation:
+13. Slicer settings:
+14. Slice information:
