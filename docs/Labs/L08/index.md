@@ -44,7 +44,11 @@ The hinge geometry was sketched on the left side. The hinge was designed to have
 
 <img width="1057" height="466" alt="image" src="https://github.com/user-attachments/assets/acf8c8b2-c70e-4348-96f7-5370c387a93a" />
 
+The hinge features were extruded.
+
 <img width="1227" height="517" alt="image" src="https://github.com/user-attachments/assets/3e760860-d44f-4547-8499-76244f051117" />
+
+The features were filleted to a semi circle shape to allow for rotation.
 
 <img width="952" height="507" alt="image" src="https://github.com/user-attachments/assets/cd041781-8cbb-45d9-adef-2232e13154d5" />
 
