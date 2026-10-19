@@ -46,3 +46,6 @@ Asking smart questions can make the difference between a good product or a faile
 
 <img width="1092" height="497" alt="image" src="https://github.com/user-attachments/assets/7da7356b-d370-46b7-b5ce-07a70f0936b4" />
 
+<img width="1482" height="672" alt="image" src="https://github.com/user-attachments/assets/799e4a40-d1d2-44b3-9efa-dc8527849bd7" />
+
+<img width="1097" height="491" alt="image" src="https://github.com/user-attachments/assets/676c65d1-5d5c-4401-a208-669f58776bd8" />
