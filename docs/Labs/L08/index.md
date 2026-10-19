@@ -44,8 +44,6 @@ The hinge geometry was sketched on the left side. The hinge was designed to have
 
 <img width="1057" height="466" alt="image" src="https://github.com/user-attachments/assets/acf8c8b2-c70e-4348-96f7-5370c387a93a" />
 
-
-
 <img width="1227" height="517" alt="image" src="https://github.com/user-attachments/assets/3e760860-d44f-4547-8499-76244f051117" />
 
 The hinge features were extruded.
@@ -68,6 +66,12 @@ The hole dimension was .135 in, 10 thou larger than the pin size. This tolerance
 
 <img width="1092" height="497" alt="image" src="https://github.com/user-attachments/assets/7da7356b-d370-46b7-b5ce-07a70f0936b4" />
 
+The holes were made in the hinge features.
+
 <img width="1482" height="672" alt="image" src="https://github.com/user-attachments/assets/799e4a40-d1d2-44b3-9efa-dc8527849bd7" />
 
+The completed halves of the stand.
+
 <img width="1097" height="491" alt="image" src="https://github.com/user-attachments/assets/676c65d1-5d5c-4401-a208-669f58776bd8" />
+
+The completed assembly.
