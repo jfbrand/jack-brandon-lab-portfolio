@@ -56,7 +56,11 @@ The features were filleted to a semi circle shape to allow the hinge movement.
 
 <img width="672" height="482" alt="image" src="https://github.com/user-attachments/assets/b67ac256-6b21-472f-9118-a84e75f15e22" />
 
+The geometry for the hinge pins was sketched.
+
 <img width="617" height="522" alt="image" src="https://github.com/user-attachments/assets/ba42843f-e80c-43ef-be39-05a268e3e2d1" />
+
+The hinge pins were extruded.
 
 <img width="487" height="496" alt="image" src="https://github.com/user-attachments/assets/8ecca01f-b3c0-4da0-b0f8-9aedcd65e011" />
 
