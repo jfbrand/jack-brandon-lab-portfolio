@@ -24,7 +24,11 @@ Asking smart questions can make the difference between a good product or a faile
 
 <img width="552" height="636" alt="image" src="https://github.com/user-attachments/assets/4e0f936a-5858-4b60-9c4a-b0ec23e84514" />
 
+The overall geometry was sketched. The angle was selected to create a natural viewing angle.
+
 <img width="782" height="376" alt="image" src="https://github.com/user-attachments/assets/7467d8b9-8c2f-424e-9d28-af1dd69507c4" />
+
+The base was extruded to .25 in.
 
 <img width="860" height="375" alt="image" src="https://github.com/user-attachments/assets/872aa1e1-8144-4b7e-9c1a-83ee4cae9778" />
 
