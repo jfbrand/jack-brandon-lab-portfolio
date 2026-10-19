@@ -18,7 +18,31 @@ Asking smart questions can make the difference between a good product or a faile
 
 **User:** The product was intended to be used by people who use their phones while multitasking. I figured that this was a large part of the population.
 
-**Design Approach:** 
+**Design Approach:** The overall design was nothing nothing new, I had seen something similar before used to hold dinner plates. I took this concept and adapted it for my purpose by sizing it appropriately for a phone, creating a notch that would hold the phone securely in place, and creating a simple hinge mechanism to allow it to fold in half. I went straight to CAD and began modeling as soon as I envisioned the concept of the design.
 
-## Communicate
+## Design
+
+<img width="552" height="636" alt="image" src="https://github.com/user-attachments/assets/4e0f936a-5858-4b60-9c4a-b0ec23e84514" />
+
+<img width="782" height="376" alt="image" src="https://github.com/user-attachments/assets/7467d8b9-8c2f-424e-9d28-af1dd69507c4" />
+
+<img width="860" height="375" alt="image" src="https://github.com/user-attachments/assets/872aa1e1-8144-4b7e-9c1a-83ee4cae9778" />
+
+<img width="1212" height="485" alt="image" src="https://github.com/user-attachments/assets/6de5cba3-8e82-4486-b763-66fd23ec661b" />
+
+<img width="1226" height="442" alt="image" src="https://github.com/user-attachments/assets/050f43a5-f5a0-4fb4-8d19-0c95b36f9459" />
+
+<img width="1057" height="466" alt="image" src="https://github.com/user-attachments/assets/acf8c8b2-c70e-4348-96f7-5370c387a93a" />
+
+<img width="1227" height="517" alt="image" src="https://github.com/user-attachments/assets/3e760860-d44f-4547-8499-76244f051117" />
+
+<img width="952" height="507" alt="image" src="https://github.com/user-attachments/assets/cd041781-8cbb-45d9-adef-2232e13154d5" />
+
+<img width="672" height="482" alt="image" src="https://github.com/user-attachments/assets/b67ac256-6b21-472f-9118-a84e75f15e22" />
+
+<img width="617" height="522" alt="image" src="https://github.com/user-attachments/assets/ba42843f-e80c-43ef-be39-05a268e3e2d1" />
+
+<img width="487" height="496" alt="image" src="https://github.com/user-attachments/assets/8ecca01f-b3c0-4da0-b0f8-9aedcd65e011" />
+
+<img width="1092" height="497" alt="image" src="https://github.com/user-attachments/assets/7da7356b-d370-46b7-b5ce-07a70f0936b4" />
 
