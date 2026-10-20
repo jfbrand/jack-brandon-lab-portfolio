@@ -100,10 +100,10 @@ The completed assembly.
       -normal mode: 50m
       -stealth mode- 1h0m
 
-<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/890bc9b6-6a49-48ff-b116-1ebd70ddfb3c" />
+<img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/890bc9b6-6a49-48ff-b116-1ebd70ddfb3c" />
 
-<img width="440" height="800" alt="image" src="https://github.com/user-attachments/assets/43b1de1b-1ba7-4028-8ef1-4fec076ee8ff" />
+<img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/43b1de1b-1ba7-4028-8ef1-4fec076ee8ff" />
 
-<img width="440" height="800" alt="image" src="https://github.com/user-attachments/assets/9a27710f-904e-43d3-b96b-c029d4b4feff" />
+<img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/9a27710f-904e-43d3-b96b-c029d4b4feff" />
 
 ## Lessons Learned
