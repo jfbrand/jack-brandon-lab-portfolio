@@ -88,7 +88,7 @@ The completed assembly.
 6. Support removal: removed by hand.
 7. Layers: 76
 8. Layer thickness: .15 mm
-9. Build volume: 1.15 in^3
+9. Build volume: 10.63 in^3
 10. Support surface finish: rough
 11. Layout: hinge features facing right, with halves next to each other
 12. Build orientation: hinge features facing up, so that flat faces were down
