@@ -80,7 +80,7 @@ The completed assembly.
 
 <img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/5d79ff9f-0395-4d69-bd24-31d92de2af35" />
 
-1. Machine number:
+1. Machine number: PC-08
 2. Raft: not used
 3. Wall thickness: 2 perimeters
 4. Infill: 15%
