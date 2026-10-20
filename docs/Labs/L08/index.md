@@ -99,5 +99,11 @@ The completed assembly.
   c. Estimated printing time:
       -normal mode: 50m
       -stealth mode- 1h0m
-      
+
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/890bc9b6-6a49-48ff-b116-1ebd70ddfb3c" />
+
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/f28ac3c5-6b99-4e6b-85fb-1b68360dcd86" />
+
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/9a27710f-904e-43d3-b96b-c029d4b4feff" />
+
 ## Lessons Learned
