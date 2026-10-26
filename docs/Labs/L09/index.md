@@ -33,4 +33,6 @@
 
 ## Lessons Learned
 
+| Date and time	| Time spent |	Step |	What happened |	Decision or change made |
+|---|---|---|---|---|
 
