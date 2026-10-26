@@ -8,15 +8,29 @@
 
 ## Design
 
-## Manufacturing
-
-## Lessons Learned
-
 | Variable Name | Value | Units | Source | What it controls |
 |---|---|---|---|---|
 | Material Thickness | | | | |
 | Kerf | | | | |
 | Clearance | | | | |
 | Slot Width | | | | |
+
+## Manufacturing
+
+| Setting	| Kerf coupon	| Fit coupon | Final cut |
+|---|---|---|---|
+| Laser cutter (name or number) |		
+| Material type	|		
+| Nominal thickness	|		
+| Measured thickness (mean) |	
+| Speed |	
+| Power	|		
+| Frequency or PPI (if applicable) |
+| Number of passes |		
+| Focus method and how you confirmed it |		
+| Air assist on? Exhaust on? |		
+| How you set origin and alignment |		
+
+## Lessons Learned
 
 
