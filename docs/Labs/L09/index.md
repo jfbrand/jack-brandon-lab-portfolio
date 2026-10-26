@@ -35,7 +35,7 @@
 
 | Date and time	| Time spent |	Step |	What happened |	Decision or change made |
 |---|---|---|---|---|
-| | | | | |
-| | | | | |
+| 10/23 | | | | |
+| 10/26 | | | | |
 | | | | | |
 
