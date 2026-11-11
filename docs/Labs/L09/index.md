@@ -34,17 +34,17 @@
 
 | Setting	| Kerf coupon	| Fit coupon | Final cut |
 |---|---|---|---|
-| Laser cutter (name or number) | SFL LA-5 | SFL LA-5 |
-| Material type	|		
-| Nominal thickness	|		
-| Measured thickness (mean) |	
-| Speed |	
-| Power	|		
-| Frequency or PPI (if applicable) |
-| Number of passes |		
-| Focus method and how you confirmed it |		
-| Air assist on? Exhaust on? |		
-| How you set origin and alignment |		
+| Laser cutter (name or number) | SFL LA-5 | SFL LA-5 | SFL LA-5 |
+| Material type	| wood | wood | wood| 		
+| Nominal thickness	|	3 | 3 | 3 |	
+| Measured thickness (mean) | 2.77 | 2.77 | 2.7 |	
+| Speed | 20% | 20% | 20% |
+| Power	| 100% | 100% | 100% |
+| Frequency or PPI (if applicable) | 20%| 20% | 20% |
+| Number of passes | single | single | single |
+| Focus method and how you confirmed it | default | default | default |
+| Air assist on? Exhaust on? | both on | both on | both on |
+| How you set origin and alignment | top left | top left | top left |
 
 ## Lessons Learned
 
