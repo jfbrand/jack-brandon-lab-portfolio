@@ -34,7 +34,7 @@
 
 | Setting	| Kerf coupon	| Fit coupon | Final cut |
 |---|---|---|---|
-| Laser cutter (name or number) |		
+| Laser cutter (name or number) | SFL LA-5 | SFL LA-5 |
 | Material type	|		
 | Nominal thickness	|		
 | Measured thickness (mean) |	
