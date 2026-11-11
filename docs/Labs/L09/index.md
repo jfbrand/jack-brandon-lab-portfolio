@@ -10,11 +10,11 @@
 
 | Variable Name | Value | Units | Source | What it controls |
 |---|---|---|---|---|
-| Material Thickness | .27 | mm | caliper | slot height |
-| Kerf (x) | .097 | mm | | |
-| Kerf (y) | .137 | mm | | | 
-| Clearance | .1 | mm | | |
-| Slot Width | 2.95 | mm | | |
+| Material Thickness | .27 | mm | measured | slot height |
+| Kerf (x) | .097 | mm | calculated | slot length |
+| Kerf (y) | .137 | mm | calculated | slot width | 
+| Clearance | .1 | mm | chosen | fit |
+| Slot Width | 2.95 | mm | calculated | slot width |
 
 <img width="1502" height="605" alt="Screenshot 2026-11-11 144200" src="https://github.com/user-attachments/assets/dcaef081-0f58-4ba4-8323-77669f3b9b3a" />
 
