@@ -15,7 +15,7 @@
 | Material Thickness | .27 | mm | measured | slot height |
 | Kerf (x) | .097 | mm | calculated | slot length |
 | Kerf (y) | .137 | mm | calculated | slot width | 
-| Clearance | .1 | mm | chosen | fit |
+| Clearance | .2 | mm | chosen | fit |
 | Slot Width | 2.95 | mm | calculated | slot width |
 
 The above table shows the values obtained from measuring the material thickness with calipers by taking at least three measurements of each sheet used and calculating the mean value. The values of the kerf are also recorded for both the x and y. The values of the material thickness, kerf, and clearance were then used to calculate the slot width (y-direction). 
@@ -28,7 +28,7 @@ The V1 test print was used to measure the kerf by choosing a nominal square size
 
 ## Decide
 
-We selected 0.1 mm for our clearance. 
+We selected 0.2 mm for our clearance. This clearance was essentially the kerf plus 0.1 mm in both the x and y. We chose this clearance after performing our test 
 
 ## Design
 
