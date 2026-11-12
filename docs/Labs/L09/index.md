@@ -26,7 +26,9 @@ The above table shows the values obtained from measuring the material thickness 
 
 The V1 test print was used to measure the kerf by choosing a nominal square size (25mm x 25m in this case) and measuring the resulting square coupon. The measured dimensions from the coupon were then subtracted from the nominal for both the X and Y to determine the kerf. Note the slot test fits as well as the different clearances being tested. We decided to try three fits: tight, target, and loose.
 
+## Decide
 
+We selected 0.1 mm for our clearance. 
 
 ## Design
 
