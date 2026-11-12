@@ -6,6 +6,8 @@
 2. Measure laser kerf and actual material thickness, and apply both as engineered allowances so your joints fit reliably across the whole sheet.
 3. Translate a parametric 3D model into 2D cut files, then back into a working 3D assembly.
 
+**Team:** The project allowed us to work in groups of two to three. I worked with Josef Chelala and Joel Holder.
+
 ## Analyze
 
 | Variable Name | Value | Units | Source | What it controls |
@@ -16,12 +18,13 @@
 | Clearance | .1 | mm | chosen | fit |
 | Slot Width | 2.95 | mm | calculated | slot width |
 
-The above table shows the values obtained from measuring the material thickness with calipers by taking at least three measurements of each sheet used and calculating the mean value. The values of the kerf are also recorded for both the x and y. The values of the material thickness, kerf, and clearance were then used to calculate the slot width (y-direction).
+The above table shows the values obtained from measuring the material thickness with calipers by taking at least three measurements of each sheet used and calculating the mean value. The values of the kerf are also recorded for both the x and y. The values of the material thickness, kerf, and clearance were then used to calculate the slot width (y-direction). 
 
 <img width="1077" height="625" alt="image" src="https://github.com/user-attachments/assets/64a08b45-a2e3-41a3-ab78-aa7cb3b975fb" />
 
-The V1 test print was used to measure the kerf by choosing a nominal square size (25mm x 25m in this case) and measuring the resulting square coupon. The measured dimensions from the coupon were then subtracted from the nominal for both the X and Y to determine the kerf. Note the slot test fits as well as the different clearances being tested. We decided to try three fits: tight, target, and loose.
+<img width="510" height="681" alt="image" src="https://github.com/user-attachments/assets/54f5d1ea-4d42-479b-9811-f1fb2c76f1f8" />
 
+The V1 test print was used to measure the kerf by choosing a nominal square size (25mm x 25m in this case) and measuring the resulting square coupon. The measured dimensions from the coupon were then subtracted from the nominal for both the X and Y to determine the kerf. Note the slot test fits as well as the different clearances being tested. We decided to try three fits: tight, target, and loose.
 
 
 
