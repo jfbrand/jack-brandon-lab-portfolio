@@ -50,6 +50,8 @@ The parametric table showing the slot width which was a constant due to the shee
 
 <img width="802" height="510" alt="image" src="https://github.com/user-attachments/assets/2fd96b6b-8456-4e83-9284-a590125d8c7f" />
 
+The assembled parametric model.
+
 ## Manufacturing
 
 | Setting	| Kerf coupon	| Fit coupon | Final cut |
