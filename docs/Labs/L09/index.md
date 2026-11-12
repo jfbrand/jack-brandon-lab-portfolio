@@ -40,7 +40,7 @@ We selected 0.2 mm for our clearance. This clearance was essentially the kerf pl
 
 <img width="958" height="356" alt="Screenshot 2026-11-11 142854" src="https://github.com/user-attachments/assets/b77f35b0-72f9-4c92-84e8-2034b0881345" />
 
-<img width="882" height="296" alt="Screenshot 2026-11-11 143041" src="https://github.com/user-attachments/assets/034da953-00c4-4515-86c5-ef58e3456dd0" />
+<img width="1247" height="426" alt="image" src="https://github.com/user-attachments/assets/8a410104-faf2-48a6-b8cf-5096e0fec2e5" />
 
 <img width="830" height="582" alt="Screenshot 2026-11-11 144009" src="https://github.com/user-attachments/assets/a76e2a10-0822-4f85-9b25-55ecdac69d89" />
 
