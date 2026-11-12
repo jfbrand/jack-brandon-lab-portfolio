@@ -10,6 +10,8 @@
 
 ## Analyze
 
+**Parameter Table**
+
 | Variable Name | Value | Units | Source | What it controls |
 |---|---|---|---|---|
 | Material Thickness | .277 | mm | measured | slot height |
@@ -54,6 +56,14 @@ The assembled parametric model.
 
 ## Manufacturing
 
+**Process Research**
+
+
+
+Source: https://www.twi-global.com/technical-knowledge/faqs/what-is-laser-cutting
+
+**Laser Process Record**
+
 | Setting	| Kerf coupon	| Fit coupon | Final cut |
 |---|---|---|---|
 | Laser cutter (name or number) | SFL LA-5 | SFL LA-5 | SFL LA-5 |
@@ -71,6 +81,8 @@ The assembled parametric model.
 [Cut Video](https://drive.google.com/file/d/1Yhd49Kubzwd0K4hGeQ5sQCxCN9s4oubA/view?usp=sharing)
 
 ## Lessons Learned
+
+**Process Log**
 
 | Date and time	| Time spent |	Step |	What happened |	Decision or change made |
 |---|---|---|---|---|
