@@ -68,6 +68,8 @@ The assembled parametric model.
 | Air assist on? Exhaust on? | both on | both on | both on |
 | How you set origin and alignment | top left | top left | top left |
 
+[Cut Video](https://drive.google.com/file/d/1Yhd49Kubzwd0K4hGeQ5sQCxCN9s4oubA/view?usp=sharing)
+
 ## Lessons Learned
 
 | Date and time	| Time spent |	Step |	What happened |	Decision or change made |
