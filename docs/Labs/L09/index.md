@@ -8,7 +8,7 @@
 
 **Team:** The project allowed us to work in groups of two to three. I worked with Josef Chelala and Joel Holder.
 
-## Analyze
+## Design
 
 **Parameter Table**
 
@@ -22,17 +22,11 @@
 
 The above table shows the values obtained from measuring the material thickness with calipers by taking at least three measurements of each sheet used and calculating the mean value. The values of the kerf are also recorded for both the x and y. The values of the material thickness, kerf, and clearance were then used to calculate the slot width (y-direction). 
 
-<img width="1077" height="625" alt="image" src="https://github.com/user-attachments/assets/64a08b45-a2e3-41a3-ab78-aa7cb3b975fb" />
-
-<img width="510" height="681" alt="image" src="https://github.com/user-attachments/assets/54f5d1ea-4d42-479b-9811-f1fb2c76f1f8" />
-
-The V1 test print was used to measure the kerf by choosing a nominal square size (25mm x 25m in this case) and measuring the resulting square coupon. The measured dimensions from the coupon were then subtracted from the nominal for both the X and Y to determine the kerf. Note the slot test fits as well as the different clearances being tested. We decided to try three fits: tight, target, and loose.
-
-## Decide
+**Explanation**
 
 We originally selected an insert to slot clearance of 0.1 mm based on research. However, after doing practical testing with our coupons to determine kerf and fits we found that a +0.25 mm in the Y and -0.475 in the X of our slots gave us the most reliable and desirable fit. This made sense as the material thickness across the sheet was roughly constant so we could make our slots 0.25 mm larger in the Y (width/height) than nominal. However, in the X direction (length) of the slot, both the slot and insert would have a kerf. This meant that we had to reduce the length of our slots to account for the double reduction in material for our wings. It was unknown as to why our test resulted in a good fit using a slot width that when added to our kerf resulted in a theoretical clearance of 0.35 mm. This would seem to be far too large when compared to our desired clearance of 0.1 mm. Similarly with our slot length being over half a mm smaller than the nominal it would seem that it would be far too tight (interference fit) lengthwise. This discrepancy will be discussed later.
 
-## Design
+**Modeling**
 
 For our design, we decided to make a simple model aircraft. We tried our best to emulate the silhouette but focused mainly on the interfaces between the wing inserts and the slots in the fuselage and engines.
 
@@ -58,9 +52,15 @@ The assembled parametric model.
 
 **Process Research**
 
+Laser cutting works by using a high powered laser to burn material guided by a motion control system (CNC or G-code) to cut or etch a pattern. The laser functions by stimulating "lasing materials" via electric discharges. The resulting light is then reflected with a series of mirrors through a lens to intensify it. The beam tends to be roughly 0.3 mm in diameter but a kerf as small as 0.1 mm is possible depending on the material thickness. 
 
+Compared to FDM, laser cutting is much faster and has less material limitations. For example, laser cutting can be used on a variety materials such as wood, metal, ceramics, and plastics. The cost comparison reveals that laser cutting is much more cost effective for large production volumes when compared to 3d printing. However FDM is still more cost effective for small volume or prototyping. Geometrically, the two processes differ greatly; laser cutting is limited to 2D only, whereas 3D printing allows for complex 3D forms.
 
-Source: https://www.twi-global.com/technical-knowledge/faqs/what-is-laser-cutting
+Sources: 
+
+https://www.twi-global.com/technical-knowledge/faqs/what-is-laser-cutting
+
+https://forgelabs.com/blog/3d-printing-vs-laser-cutting
 
 **Laser Process Record**
 
@@ -77,6 +77,12 @@ Source: https://www.twi-global.com/technical-knowledge/faqs/what-is-laser-cuttin
 | Focus method and how you confirmed it | default | default | default |
 | Air assist on? Exhaust on? | both on | both on | both on |
 | How you set origin and alignment | top left | top left | top left |
+
+<img width="1077" height="625" alt="image" src="https://github.com/user-attachments/assets/64a08b45-a2e3-41a3-ab78-aa7cb3b975fb" />
+
+<img width="510" height="681" alt="image" src="https://github.com/user-attachments/assets/54f5d1ea-4d42-479b-9811-f1fb2c76f1f8" />
+
+The V1 test print was used to measure the kerf by choosing a nominal square size (25mm x 25m in this case) and measuring the resulting square coupon. The measured dimensions from the coupon were then subtracted from the nominal for both the X and Y to determine the kerf. Note the slot test fits as well as the different clearances being tested. We decided to try three fits: tight, target, and loose.
 
 [Cut Video](https://drive.google.com/file/d/1Yhd49Kubzwd0K4hGeQ5sQCxCN9s4oubA/view?usp=sharing)
 
