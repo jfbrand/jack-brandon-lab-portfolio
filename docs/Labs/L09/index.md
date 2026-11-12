@@ -36,6 +36,8 @@ For our design, we decided to make a simple model aircraft. We tried our best to
 
 <img width="1502" height="605" alt="Screenshot 2026-11-11 144200" src="https://github.com/user-attachments/assets/dcaef081-0f58-4ba4-8323-77669f3b9b3a" />
 
+The parametric table showing the slot width which was a constant due to the sheet width not changing (drastically). The x_diff variable was a constant that was subtracted from the length of each slot (which varied). Note the "fx" before each slot dimension in the sketches below showing the parametric references. 
+
 <img width="1012" height="467" alt="Screenshot 2026-11-11 144306" src="https://github.com/user-attachments/assets/859940da-8466-411a-a44b-a826e80a7f1d" />
 
 <img width="731" height="522" alt="Screenshot 2026-11-11 144855" src="https://github.com/user-attachments/assets/4da8078a-cde2-44e0-811d-c9e8fe2ce888" />
