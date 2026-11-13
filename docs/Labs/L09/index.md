@@ -50,6 +50,8 @@ The assembled parametric model.
 
 ## Manufacturing
 
+<img width="475" height="627" alt="image" src="https://github.com/user-attachments/assets/b0d72d6c-10c9-45fb-8ba6-8f9075805a12" />
+
 **Process Research**
 
 Laser cutting works by using a high powered laser to burn material guided by a motion control system (CNC or G-code) to cut or etch a pattern. The laser functions by stimulating "lasing materials" via electric discharges. The resulting light is then reflected with a series of mirrors through a lens to intensify it. The beam tends to be roughly 0.3 mm in diameter but a kerf as small as 0.1 mm is possible depending on the material thickness. 
