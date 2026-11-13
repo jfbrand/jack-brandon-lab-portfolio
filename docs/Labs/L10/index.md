@@ -22,6 +22,30 @@ The goal of this project was to design and fabricate a pair of parts (a hole/slo
 
 ## Preprocessing for 3D Printing
 
+<img width="946" height="817" alt="image" src="https://github.com/user-attachments/assets/71cf9da4-2f33-4c62-ab81-10e53af18bfc" />
+
+**Machine name:** MatureImpala
+
+**Build Orientation:**
+
+  Base: canted at ~ 45 degrees due to one click setup settings
+
+  Shaft: vertical to prevent postprocess surface roughness from supports
+
+**Layout:** 2 assemblies, 4 parts total, dispersed evenly in center of build plate
+
+**Support Settings and Wall Thickness:**
+
+**Layer Height and Print Time:** 
+
+  Layer Height: 0.1 mm
+
+  Print Time: 1h for both assemblies
+
+**Total Volume**: 16.41 mL
+
+**Allowable Clearance for Shrinkage:**
+
 ## Postprocessing
 
 ## Fit Test
