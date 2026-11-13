@@ -26,3 +26,9 @@ nav:
       - Lab-11: Labs/L11/index.md
   - Final Project: 
       - Final Project: finalproject/index.md
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
