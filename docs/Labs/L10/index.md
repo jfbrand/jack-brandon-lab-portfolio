@@ -2,11 +2,19 @@
 
 ## Objective
 
-The goal of this project was to design and fabricate a pair of parts (a hole/slot feature and a matching shaft/insert feature) that demonstrated an RC 2 sliding fit on a SLA print as defined in the Machinery’s Handbook:
+The goal of this project was to design and fabricate a pair of parts (a hole/slot feature and a matching shaft/insert feature) that demonstrated an RC 2 sliding fit on a SLA print as defined in the Machinery’s Handbook.
+
+## Research and Planning
+
+**RC2 fit specification from Machinery’s Handbook:**
 
 “RC 2 Sliding fits are intended for accurate location, but with greater maximum clearance than class RC 1. Parts made to this fit move and turn easily but are not intended to run freely, and in the larger sizes may seize with small temperature changes.”
 
-## Research and Planning
+**RC2 Tolerance Range:**
+
+**Hand Sketch**
+
+
 
 ## CAD Design
 
