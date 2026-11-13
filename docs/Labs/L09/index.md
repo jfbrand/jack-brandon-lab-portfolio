@@ -15,16 +15,16 @@
 | Variable Name | Value | Units | Source | What it controls |
 |---|---|---|---|---|
 | Material Thickness | .277 | mm | measured | slot height |
-| Kerf (x) | .097 | mm | calculated | slot length |
-| Kerf (y) | .137 | mm | calculated | slot width | 
-| Clearance | .1 | mm | research | fit |
-| Slot Width | 2.95 | mm | testing | slot width |
+| Kerf (x) | .097 | mm | calculated | slot dim. |
+| Kerf (y) | .137 | mm | calculated | slot dim. | 
+| Clearance | 0-0.2 | mm | research, testing | fit |
+| Slot Width | 2.95 | mm | testing | fit |
 
 The above table shows the values obtained from measuring the material thickness with calipers by taking at least three measurements of each sheet used and calculating the mean value. The values of the kerf are also recorded for both the x and y. The values of the material thickness, kerf, and clearance were then used to calculate the slot width (y-direction). 
 
 **Explanation**
 
-We originally selected an insert to slot clearance of 0.1 mm based on research. However, after doing practical testing with our coupons to determine kerf and fits we found that a +0.25 mm in the Y and -0.475 in the X of our slots gave us the most reliable and desirable fit. This made sense as the material thickness across the sheet was roughly constant so we could make our slots 0.25 mm larger in the Y (width/height) than nominal. However, in the X direction (length) of the slot, both the slot and insert would have a kerf. This meant that we had to reduce the length of our slots to account for the double reduction in material for our wings. It was unknown as to why our test resulted in a good fit using a slot width that when added to our kerf resulted in a theoretical clearance of 0.35 mm. This would seem to be far too large when compared to our desired clearance of 0.1 mm. Similarly with our slot length being over half a mm smaller than the nominal it would seem that it would be far too tight (interference fit) lengthwise. This discrepancy will be discussed later.
+We originally selected an insert to slot clearance of 0.1 mm based on research. However, after doing practical testing with our coupons to determine kerf and fits we found that a +0.25 mm in the Y and -0.475 in the X of our slots gave us the most reliable and desirable fit. This made sense as the material thickness across the sheet was roughly constant so we could make our slots 0.25 mm larger in the Y (width/height) than nominal. However, in the X direction (length) of the slot, both the slot and insert would have a kerf. This meant that we had to reduce the length of our slots to account for the double kerf for our wings. It was unknown as to why our test resulted in a good fit using a slot width that when added to our kerf resulted in a theoretical clearance of roughly 0.28 mm. This would seem to be too large when compared to our desired clearance of 0.2 mm. Similarly with our slot length being almost half a mm smaller than the nominal it would seem that it would be too tight (slight interference fit) lengthwise. This discrepancy will be discussed later.
 
 **Modeling**
 
@@ -82,9 +82,25 @@ https://forgelabs.com/blog/3d-printing-vs-laser-cutting
 
 <img width="510" height="681" alt="image" src="https://github.com/user-attachments/assets/54f5d1ea-4d42-479b-9811-f1fb2c76f1f8" />
 
-The V1 test print was used to measure the kerf by choosing a nominal square size (25mm x 25m in this case) and measuring the resulting square coupon. The measured dimensions from the coupon were then subtracted from the nominal for both the X and Y to determine the kerf. Note the slot test fits as well as the different clearances being tested. We decided to try three fits: tight, target, and loose.
+The test print was used to measure the kerf by choosing a nominal square size (25mm x 25m in this case) and measuring the resulting square coupon. The measured dimensions from the coupon were then subtracted from the nominal for both the X and Y to determine the kerf. Note the slot test fits as well as the different clearances being tested. We decided to try three fits: tight, target, and loose.
+
+**Cutting Video**
 
 [Cut Video](https://drive.google.com/file/d/1Yhd49Kubzwd0K4hGeQ5sQCxCN9s4oubA/view?usp=sharing)
+
+**Nesting/Layout**
+
+<img width="305" height="445" alt="image" src="https://github.com/user-attachments/assets/f959ee2a-5336-440c-9ea7-7e052c0ac528" />
+
+Our parts were laid out relatively close together to keep the overall surface area compact. This was done to save time by reducing the amount of traversing required to cut the parts.
+
+**Air Assist/Exhaust**
+
+We noticed that the ventilation system worked well to reduce the apparent amount and smell of smoke coming from the laser cutter. We intentionally waited for roughly 30 seconds before opening the laser cutter to ensure that all harmful smoke had been ventilated prior.
+
+**Edge Quality**
+
+We did not have any issues with edge quality during the project.
 
 ## Lessons Learned
 
