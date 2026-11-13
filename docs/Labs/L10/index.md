@@ -12,6 +12,8 @@ The goal of this project was to design and fabricate a pair of parts (a hole/slo
 
 <img width="702" height="592" alt="image" src="https://github.com/user-attachments/assets/e3d422e2-2844-4091-bd55-e6e926034a7e" />
 
+<img width="646" height="536" alt="image" src="https://github.com/user-attachments/assets/ec035677-7623-4d45-9667-c1b8a5c31bd8" />
+
 <img width="712" height="537" alt="image" src="https://github.com/user-attachments/assets/82581874-f2cf-4812-9c0a-1908a5386425" />
 
 <img width="710" height="602" alt="image" src="https://github.com/user-attachments/assets/b45dba6c-c85a-45b1-9096-a9f387607a75" />
