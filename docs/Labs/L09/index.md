@@ -117,7 +117,7 @@ We did not have any issues with edge quality during the project.
 | 10/23/26 | 3:39pm | 3 | Fit test V3 cut |
 | 10/23/26 | 3:50pm | 3 | Fit test V4 cut |
 | 10/23/26 | 4:02pm | 3 | Fit test V5 cut |
-| 10/23/26 | 4:10pm | 4 | Clearance chosen (.100 mm) |
+| 10/23/26 | 4:10pm | 4 | Clearance chosen (0.2 mm) |
 | 10/26/26 | 2:24pm | 2 | Kerf calculated (.097 mm X, .137 mm Y) |
 | 10/26/26 | 3:05pm | 5 | Initial CAD completion |
 | 10/26/26 | 5:04pm | 5 | Final CAD completion |
