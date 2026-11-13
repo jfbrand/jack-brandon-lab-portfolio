@@ -1,13 +1,28 @@
-# A10 – Lead Screw Translating System
+# A10 – RC2 Sliding Fit Design and Verification
 
 ## Objective
 
+The goal of this project was to design and fabricate a pair of parts (a hole/slot feature and a matching shaft/insert feature) that demonstrated an RC 2 sliding fit on a SLA print as defined in the Machinery’s Handbook:
 
-## Analyze
+“RC 2 Sliding fits are intended for accurate location, but with greater maximum clearance than class RC 1. Parts made to this fit move and turn easily but are not intended to run freely, and in the larger sizes may seize with small temperature changes.”
 
+## Research and Planning
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+## CAD Design
 
-## Communicate
+<img width="702" height="592" alt="image" src="https://github.com/user-attachments/assets/e3d422e2-2844-4091-bd55-e6e926034a7e" />
+
+<img width="712" height="537" alt="image" src="https://github.com/user-attachments/assets/82581874-f2cf-4812-9c0a-1908a5386425" />
+
+<img width="710" height="602" alt="image" src="https://github.com/user-attachments/assets/b45dba6c-c85a-45b1-9096-a9f387607a75" />
+
+<img width="688" height="657" alt="image" src="https://github.com/user-attachments/assets/25f986eb-9987-4e57-ba3c-bd3b8a06f2e6" />
+
+## Preprocessing for 3D Printing
+
+## Postprocessing
+
+## Fit Test
+
+## Lessons Learned
 
