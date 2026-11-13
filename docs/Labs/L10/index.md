@@ -28,13 +28,17 @@ The goal of this project was to design and fabricate a pair of parts (a hole/slo
 
 **Build Orientation:**
 
-  Base: canted at ~ 45 degrees due to one click setup settings
+  Base: canted at ~ 45 degrees due to one click setup default settings
 
   Shaft: vertical to prevent postprocess surface roughness from supports
 
 **Layout:** 2 assemblies, 4 parts total, dispersed evenly in center of build plate
 
 **Support Settings and Wall Thickness:**
+
+  Supports: one click setup default with rafts
+
+  Wall Thickness: default
 
 **Layer Height and Print Time:** 
 
