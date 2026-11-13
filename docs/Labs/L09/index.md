@@ -110,7 +110,7 @@ We did not have any issues with edge quality during the project.
 
 | Date | Time | Step | Occurrence/Decision |
 | ----| ----- | ----| --------------------- |
-| 10/23/26 | 1:57pm | 1 | Material thickness measured (2.70 mm) |
+| 10/23/26 | 1:57pm | 1 | Material thickness measured (2.77 mm) |
 | 10/23/26 | 2:38pm | 2 | Test Coupon cut, Measured |
 | 10/23/26 | 3:24pm | 3 | Fit test V1 cut |
 | 10/23/26 | 3:32pm | 3 | Fit test V2 cut |
