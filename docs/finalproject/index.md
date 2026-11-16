@@ -16,6 +16,8 @@ Explain how this process can guide your own project iteration and improvement.
 FDM anisotropic:
 Investigate how the Fused Deposition Modeling (FDM) process inherently produces anisotropic parts. Document how this anisotropy may influence the performance and design of your prototype. Additionally, explore strategies to either leverage this behavior to your advantage or mitigate its limitations through design decisions, material selection, or process parameters.
 
+Source: https://incose.onlinelibrary.wiley.com/doi/10.1002/sys.70003
+
 **SLA Shrinkage:**
 Research shrinkage behavior and dimensional accuracy in SLA resin prints, and document how this may affect your prototype’s design and assembly. Include key findings in your portfolio (e.g., typical shrinkage percentages, strategies for compensation, material differences).
 Laser Cut kerf:
