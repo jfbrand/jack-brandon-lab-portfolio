@@ -11,10 +11,15 @@
 ## Research
 
 **Spiral Design Process:**
-Planning:
-Risk Analysis:
+
+Planning: The spiral process begins with requirements and planning as well as risks.
+
+Risk Analysis: Closely tied to the planning stage. The risk increases with an increase in interfaces, for example; mechanical-mechanical, mechanical-electrical, mechanical-human.
+
 Engineering:
+
 Evaluation:
+
 Explain how this process can guide your own project iteration and improvement.
 
 Source: https://incose.onlinelibrary.wiley.com/doi/10.1002/sys.70003
