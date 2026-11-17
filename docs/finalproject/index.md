@@ -75,7 +75,7 @@ The basic design of the snap fit was tested last week with the SLA snap fit proj
 
 ## Video Presentation
 
-
+[![Watch the video here](assets/thumbnail.png)](https://drive.google.com/file/d/12mq3tQVJX0H_7B8eB8Z0kJVVTYCM1DMI/view?usp=sharing)
 
 ## Documentation
 Record your full process in your portfolio, including notes, research, images, and early models.
