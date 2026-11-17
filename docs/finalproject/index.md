@@ -61,6 +61,10 @@ The rough sketch showing the basic assembly. Note, the clip will be a separate p
 
 The rough model of the main body/water bottle holder. This will be printed from PLA. Thickness of the walls may be adjusted for strength and changes may need to be made for the snap fit cutout on the side.
 
+<img width="367" height="707" alt="image" src="https://github.com/user-attachments/assets/06cfc3e4-80e2-4c9d-b171-8fce78f0dde1" />
+
+The rough model of the clip. Note, the dimensions are subject to change after testing of the critical features of the snap fit.
+
 ## Testing Critical Features
 Print or cut test pieces of challenging features (e.g., snap fits, press fits, or interlocking joints) to verify tolerances.
 
