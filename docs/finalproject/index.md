@@ -49,7 +49,7 @@ Depending on the size of water bottle and cupholders in your car, it can be diff
 
 **Water Bottle Holder**
 
-
+I will be choosing this problem due to my own personal desire to have a solution and the fact that the other two ideas seems to be less unique. This problem can be solved using a simple hanging or clip-on water bottle holder that is made out of 3D printed and SLA resin parts. It will hold the water bottle in place using a bottle holder and then use a clip piece to hang or clip onto either a door pocket or cupholders in center console of your car. Due to material limitations I will be printing the main body out of PLA and the snap on clip will be made of SLA.
 
 ## Concept Development
 
