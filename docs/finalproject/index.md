@@ -31,11 +31,17 @@ In the case of my prototype this will not be an issue. The forces will be mostly
 
 Source: https://rapidmade.com/isotropic-vs-anisotropic-strength-in-3d-printing/
 
-**SLA Shrinkage:**
-Research shrinkage behavior and dimensional accuracy in SLA resin prints, and document how this may affect your prototype’s design and assembly. Include key findings in your portfolio (e.g., typical shrinkage percentages, strategies for compensation, material differences).
+**SLA Shrinkage:
+
+Resin printer tends to be very accurate at +/- 0.05-0.15 mm. However, shrinkage is still a concern. It can vary based on which resin is being used but shrinkage in resin prints tends to be roughly 7-11%. This has to be taken into account when designing parts or assemblies that require a high degree of accuracy.  
+
+Given that the body will be FDM printed and the clip being inserted will be SLA, the shrinkage factor should not create any issues. If the clip is slightly smaller than designed, it will still likely snap into the body without issue. The main concern will be getting a tight fit that does not have too much play or slop.
+
+Source: https://www.3dmag.com/3d-wikipedia/resin-printing-sla-uv-resin-technology-guide/
 
 **Laser Cut kerf:**
-Investigate methods for compensating for laser cutting kerf and document how these strategies influence your prototype’s design, tolerances, and assembly. Consider how kerf impacts fit, joint performance, and overall dimensional accuracy, and how design choices can account for these effects.
+
+
 
 ## Problem Definition
 
