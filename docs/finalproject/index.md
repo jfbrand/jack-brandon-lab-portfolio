@@ -39,10 +39,6 @@ Given that the body will be FDM printed and the clip being inserted will be SLA,
 
 Source: https://www.3dmag.com/3d-wikipedia/resin-printing-sla-uv-resin-technology-guide/
 
-**Laser Cut kerf:**
-
-
-
 ## Problem Definition
 
 **"I cant get every bit of toothpaste out of the tube"**
