@@ -14,9 +14,9 @@ Planning: The spiral process begins with requirements and planning as well as ri
 
 Risk Analysis: Closely tied to the planning stage. The risk increases with an increase in interfaces, for example; mechanical-mechanical, mechanical-electrical, mechanical-human.
 
-Engineering: 
+Engineering: Uses incremental, iterative, and evolutionary design methods.
 
-Evaluation:
+Evaluation: important that the product passes stakeholder approval. There are limitations to how much R&D can be economically feasible once the product is marketable.
 
 Explain how this process can guide your own project iteration and improvement.
 
