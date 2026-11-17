@@ -55,7 +55,7 @@ I will be choosing this problem due to my own personal desire to have a solution
 
 <img width="806" height="642" alt="image" src="https://github.com/user-attachments/assets/4ecd6a99-35ef-4ba1-a1c7-e2c63e99842d" />
 
-
+The rough sketch showing the basic assembly. Note, the clip will be a separate part and will be made from SLA. It will be snap fit to the main body holding the water bottle which will be printed from PLA. 
 
 ## Testing Critical Features
 Print or cut test pieces of challenging features (e.g., snap fits, press fits, or interlocking joints) to verify tolerances.
