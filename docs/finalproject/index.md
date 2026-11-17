@@ -57,6 +57,10 @@ I will be choosing this problem due to my own personal desire to have a solution
 
 The rough sketch showing the basic assembly. Note, the clip will be a separate part and will be made from SLA. It will be snap fit to the main body holding the water bottle which will be printed from PLA. 
 
+<img width="615" height="640" alt="image" src="https://github.com/user-attachments/assets/e38c0b59-4ae5-46d2-aead-2e1f7c441dea" />
+
+The rough model of the main body/water bottle holder. This will be printed from PLA. Thickness of the walls may be adjusted for strength and changes may need to be made for the snap fit cutout on the side.
+
 ## Testing Critical Features
 Print or cut test pieces of challenging features (e.g., snap fits, press fits, or interlocking joints) to verify tolerances.
 
