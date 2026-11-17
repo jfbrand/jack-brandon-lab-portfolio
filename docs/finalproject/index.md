@@ -1,10 +1,8 @@
-# Final Project – [Topic]
+# Final Project – Water Bottle Holder
 
 ## Objectives
 
-
-## Problem to Solve
-
+The goal of this project is to select a real-world problem that you, a friend, or a family member personally experience and refine your prototype design to address it.
 
 ## Part 1
 
@@ -16,7 +14,7 @@ Planning: The spiral process begins with requirements and planning as well as ri
 
 Risk Analysis: Closely tied to the planning stage. The risk increases with an increase in interfaces, for example; mechanical-mechanical, mechanical-electrical, mechanical-human.
 
-Engineering:
+Engineering: 
 
 Evaluation:
 
@@ -29,7 +27,8 @@ Investigate how the Fused Deposition Modeling (FDM) process inherently produces 
 
 **SLA Shrinkage:**
 Research shrinkage behavior and dimensional accuracy in SLA resin prints, and document how this may affect your prototype’s design and assembly. Include key findings in your portfolio (e.g., typical shrinkage percentages, strategies for compensation, material differences).
-Laser Cut kerf:
+
+**Laser Cut kerf:**
 Investigate methods for compensating for laser cutting kerf and document how these strategies influence your prototype’s design, tolerances, and assembly. Consider how kerf impacts fit, joint performance, and overall dimensional accuracy, and how design choices can account for these effects.
 
 ## Problem Definition
