@@ -40,9 +40,10 @@ Select one problem that can be addressed using manufacturing processes used in c
 Explain how and why you want to solve this problem.
 
 ## Concept Development
-Generate a sketch or rough model of your overall design.
-Create a 3D model of your prototype based on feedback from peers.
-Ensure your design is feasible for manufacturing (consider clearances, tolerances, and material properties).
+
+<img width="806" height="642" alt="image" src="https://github.com/user-attachments/assets/4ecd6a99-35ef-4ba1-a1c7-e2c63e99842d" />
+
+
 
 ## Testing Critical Features
 Print or cut test pieces of challenging features (e.g., snap fits, press fits, or interlocking joints) to verify tolerances.
