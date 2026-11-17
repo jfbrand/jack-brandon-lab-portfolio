@@ -25,6 +25,12 @@ Source: https://incose.onlinelibrary.wiley.com/doi/10.1002/sys.70003
 **FDM anisotropic:**
 Investigate how the Fused Deposition Modeling (FDM) process inherently produces anisotropic parts. Document how this anisotropy may influence the performance and design of your prototype. Additionally, explore strategies to either leverage this behavior to your advantage or mitigate its limitations through design decisions, material selection, or process parameters.
 
+FDM is inherently anisotropic because of the weakness in the z-axis when compared to the x and y. This is due to the way that FDM printing works, which is each part is printed layer by layer. These layers are not ideally welded together because the previous layer is cooler than each subsequent one. This can cause the layers to separate or crack at these interfaces.
+
+In the case of my prototype this will not be an issue. The forces will be mostly pushing perpendicular to the welded interfaces not parallel. This means that the risk of shear forces delaminating those layers is extremely low. Second, the clip which will have more more forces applied to it through bending, will be isotropic since it will SLA printed instead.
+
+Source: https://rapidmade.com/isotropic-vs-anisotropic-strength-in-3d-printing/
+
 **SLA Shrinkage:**
 Research shrinkage behavior and dimensional accuracy in SLA resin prints, and document how this may affect your prototype’s design and assembly. Include key findings in your portfolio (e.g., typical shrinkage percentages, strategies for compensation, material differences).
 
