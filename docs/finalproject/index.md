@@ -32,8 +32,18 @@ Research shrinkage behavior and dimensional accuracy in SLA resin prints, and do
 Investigate methods for compensating for laser cutting kerf and document how these strategies influence your prototype’s design, tolerances, and assembly. Consider how kerf impacts fit, joint performance, and overall dimensional accuracy, and how design choices can account for these effects.
 
 ## Problem Definition
-Identify and describe in detail several problems (3 minimum) you find interesting or worth solving.
-Use clear headers and full sentences in your documentation.
+
+**"I cant get every bit of toothpaste out of the tube"**
+
+The difficult task of trying to squeeze the last bit of toothpaste out of the tube.
+
+**"I need to seal a bag chips that I opened"**
+
+That annoying bag of chips that you cant reseal.
+
+**"I don't have large enough cupholders in my car for my water bottle"**
+
+Depending on the size of water bottle and cupholders in your car, it can be difficult to find a place to put it, causing it to roll around while driving.
 
 ## Problem Selection
 Select one problem that can be addressed using manufacturing processes used in class.
