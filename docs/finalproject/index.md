@@ -35,19 +35,21 @@ Investigate methods for compensating for laser cutting kerf and document how the
 
 **"I cant get every bit of toothpaste out of the tube"**
 
-The difficult task of trying to squeeze the last bit of toothpaste out of the tube.
+The difficult task of trying to squeeze the last bit of toothpaste out of the tube. This effects almost everyone and could be solved with a few different mechanisms.
 
 **"I need to seal a bag chips that I opened"**
 
-That annoying bag of chips that you cant reseal.
+That annoying bag of chips that you cant reseal. Again, this is a very common problem that can be solved relatively easily.
 
 **"I don't have large enough cupholders in my car for my water bottle"**
 
-Depending on the size of water bottle and cupholders in your car, it can be difficult to find a place to put it, causing it to roll around while driving.
+Depending on the size of water bottle and cupholders in your car, it can be difficult to find a place to put it, causing it to roll around while driving. This is an issue that I have run into personally. It can be especially frustrating when in a hurry and trying to stay hydrated throughout the day.
 
 ## Problem Selection
-Select one problem that can be addressed using manufacturing processes used in class.
-Explain how and why you want to solve this problem.
+
+**Water Bottle Holder**
+
+
 
 ## Concept Development
 
