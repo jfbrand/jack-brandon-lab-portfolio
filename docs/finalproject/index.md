@@ -65,6 +65,10 @@ The rough model of the main body/water bottle holder. This will be printed from 
 
 The rough model of the clip. Note, the dimensions are subject to change after testing of the critical features of the snap fit.
 
+<img width="635" height="642" alt="image" src="https://github.com/user-attachments/assets/3aaefbc1-01d7-4988-9c2c-bc3440bdb4fa" />
+
+The full assembly.
+
 ## Testing Critical Features
 Print or cut test pieces of challenging features (e.g., snap fits, press fits, or interlocking joints) to verify tolerances.
 
