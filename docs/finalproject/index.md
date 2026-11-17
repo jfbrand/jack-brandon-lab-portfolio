@@ -70,10 +70,12 @@ The rough model of the clip. Note, the dimensions are subject to change after te
 The full assembly.
 
 ## Testing Critical Features
-Print or cut test pieces of challenging features (e.g., snap fits, press fits, or interlocking joints) to verify tolerances.
+
+The basic design of the snap fit was tested last week with the SLA snap fit project. This design will be implementing a very similar mechanism, albeit optimized for this purpose. The tolerances will be adjusted accordingly.
 
 ## Video Presentation
-Create a 30-second video explaining the selected problem in detail.
+
+
 
 ## Documentation
 Record your full process in your portfolio, including notes, research, images, and early models.
