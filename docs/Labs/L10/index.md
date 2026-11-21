@@ -102,6 +102,9 @@ Assembled, extended configuration
 
 ## Postprocessing
 
+<img width="602" height="542" alt="image" src="https://github.com/user-attachments/assets/5e53c3e4-5293-4d44-b985-cf7b7037c0a2" />
+
+
 ## Fit Test
 
 ## Lessons Learned
