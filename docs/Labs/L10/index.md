@@ -6,11 +6,43 @@ The goal of this project was to design and fabricate a pair of parts (a hole/slo
 
 ## Research and Planning
 
-**RC2 fit specification from Machinery’s Handbook:**
+**ASME RC 2 Sliding Fit Specification from Machinery’s Handbook**
 
 “RC 2 Sliding fits are intended for accurate location, but with greater maximum clearance than class RC 1. Parts made to this fit move and turn easily but are not intended to run freely, and in the larger sizes may seize with small temperature changes.”
 
 **RC2 Tolerance Range:**
+
+Shaft/Bore diameter for 0.25" nominal:
+
+Shaft - 0.2496 - 0.2498"
+
+Bore - 0.25 - 0.2504"
+
+Minimum clearance - 0.2 Thous (0.0002")
+
+Maximum clearance - 0.8 Thous (0.0008")
+
+**Real World Applications**
+
+An RC2 class fit would be used where some sliding and accurate location is needed. It's main advantage would be allowing movement without introducing unwanted play in components. Due to this RC2 fits are best used where accuratee location and sliding are needed such as lathe spindles, locating pins, sliding gears and clutches. This fit is also useful for jigs or fixtures where repeated locational accuracy is important. This fit is not suited for machinery that requires high speed sliding or rotating as it would generate too much friction and the fit clearance can fluctuate with temperature changes.
+
+Source: Google
+
+**Shrinkage and Expansion of Resin Prints**
+
+Resin prints typically shrink by 0.3-2% linearly during printing and curing. Although it would seem that the a printed shaft and bore would theoretically shrink at the same percentage, there are variations in wall thickness and the polymer itself has high surface friction causing the fit to fail. Due to bleed/overcure, the inside wall of the bore can cure slightly inside and as the resin shrinks and contracts, the inner diameter of the bore decreases. This alone can account for 4-8 thou of lost clearance between the components. Similarly, the outer diameter of the shaft can cure outside of the correct diameter. It is these characteristics of SLA printing as well as the friction of polymer on polymer interfaces that necessitate a much larger engineered clearance for the SLA RC2 fit.
+
+In order to avoid the parts seizing, the assembly was designed to have 12 thou (0.012") of clearance. This was estimated by accounting for the shrinkage, wall thickness fluctuations, friction, and seeing other test prints.
+
+Chosen shaft/bore diameter:
+
+Shaft: 0.238"
+
+Bore: 0.25"
+
+Clearance: 12 thou (0.012")
+
+Reason for 
 
 **Hand Sketch**
 
