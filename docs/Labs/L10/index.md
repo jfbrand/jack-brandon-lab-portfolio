@@ -44,8 +44,6 @@ Bore: 0.25"
 
 Clearance: 12 thou (0.012")
 
-Reason for 
-
 **Hand Sketch**
 
 
