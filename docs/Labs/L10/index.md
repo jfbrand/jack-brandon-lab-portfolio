@@ -54,7 +54,7 @@ Clearance: 12 thou (0.012")
 
 Base sketch.
 
-<img width="646" height="536" alt="image" src="https://github.com/user-attachments/assets/ec035677-7623-4d45-9667-c1b8a5c31bd8" />
+<img width="707" height="647" alt="image" src="https://github.com/user-attachments/assets/30ce305c-06c1-4ee3-a42c-8a4469dee5c6" />
 
 Shaft sketch.
 
