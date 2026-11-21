@@ -14,13 +14,13 @@ The goal of this project was to design and fabricate a pair of parts (a hole/slo
 
 Shaft/Bore diameter for 0.25" nominal:
 
-Shaft - 0.2496 - 0.2498"
+Shaft: 0.2496 - 0.2498"
 
-Bore - 0.25 - 0.2504"
+Bore: 0.25 - 0.2504"
 
-Minimum clearance - 0.2 Thous (0.0002")
+Minimum clearance: 0.2 Thous (0.0002")
 
-Maximum clearance - 0.8 Thous (0.0008")
+Maximum clearance: 0.8 Thous (0.0008")
 
 **Real World Applications**
 
@@ -42,7 +42,13 @@ Shaft: 0.238"
 
 Bore: 0.25"
 
-Clearance: 12 thou (0.012")
+Key: 0.022" X 0.016" (L X H)
+
+Slot: 0.03" X 0.016" (L X H)
+
+Shaft/Bore Clearance: 12 thou (0.012")
+
+Key/Slot Clearance: 8 thou (0.008")
 
 **Hand Sketch**
 
@@ -78,23 +84,23 @@ Assembled, extended configuration
 
 **Build Orientation:**
 
-  Base: canted at ~ 45 degrees due to one click setup default settings
+Base: canted at ~ 45 degrees due to one click setup default settings
 
-  Shaft: vertical to prevent postprocess surface roughness from supports
+Shaft: vertical to prevent postprocess surface roughness from supports
 
 **Layout:** 2 assemblies, 4 parts total, dispersed evenly in center of build plate
 
 **Support Settings and Wall Thickness:**
 
-  Supports: one click setup default with rafts
+Supports: one click setup default with rafts
 
-  Wall Thickness: default
+Wall Thickness: default
 
 **Layer Height and Print Time:** 
 
-  Layer Height: 0.1 mm
+Layer Height: 0.1 mm
 
-  Print Time: 1h for both assemblies
+Print Time: 1h for both assemblies
 
 **Total Volume**: 16.41 mL
 
@@ -108,6 +114,14 @@ Assembled, extended configuration
 
 
 ## Fit Test
+
+**Caliper Measurements**
+
+Bore:
+
+Slot: 
+
+Shaft: 
 
 ## Lessons Learned
 
