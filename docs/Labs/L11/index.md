@@ -51,6 +51,7 @@ The amount of deflection in each flexure dictates the both the durability and th
 
 ## Post-Processing
 
+<img width="600" height="642" alt="image" src="https://github.com/user-attachments/assets/eb284f37-94c6-44a9-8dfd-9e543023d761" />
 
 ## Fit Test
 
