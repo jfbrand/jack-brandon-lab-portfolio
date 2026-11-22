@@ -2,6 +2,13 @@
 
 ## Research and Planning
 
+**Key Design Principles**
+
+**Sketch**
+
+**Mechanical Principles**
+
+**SLA Resin Properties**
 
 ## CAD Design
 
