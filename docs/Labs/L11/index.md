@@ -1,12 +1,21 @@
 # Lab #11: Snap Fit Design for SLA Printing (Form 4)
 
-## Objective
+## Research and Planning
 
 
-## Analyze
+## CAD Design
 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+## Preprocessing
 
-## Communicate
+
+## Post-Processing
+
+
+## Fit Test
+
+
+## Lessons Learned
+
+
+
