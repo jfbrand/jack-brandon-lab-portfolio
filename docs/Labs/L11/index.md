@@ -25,6 +25,14 @@ The amount of deflection in each flexure dictates the both the durability and th
 
 ## CAD Design
 
+**Snap-Fit Type**
+
+The clip design uses a dual cantilever beam mechanism with undercut geometry that allows it to deform and then snap into place to hold the two parts together. 
+
+**Intended Function**
+
+The intended function of this mechanism is to allow for two straps to be clipped together. The slots in the two parts of the clip are designed with slots to allow for these straps to be fastened to either end of the clip. The clip is designed to have a strong enough hold to be useful for a belt or backpack for example.
+
 <img width="695" height="491" alt="image" src="https://github.com/user-attachments/assets/62dd6920-e050-4c50-9d87-d4b4f84733ec" />
 
 <img width="362" height="545" alt="image" src="https://github.com/user-attachments/assets/ad02fbef-75e7-483d-ad8b-76f293335940" />
