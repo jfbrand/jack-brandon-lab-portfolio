@@ -99,6 +99,22 @@ The clip was not designed for separable assembly; once the parts were clipped to
 
 <img width="1191" height="630" alt="image" src="https://github.com/user-attachments/assets/b26f49c9-3856-4c8b-ad49-ed3873aa0a16" />
 
+**Machine name and resin used**
+
+**Build orientation and reasoning**
+
+**Layout on the build plate (2–3 student parts per plate)**
+
+**Support strategy, wall thickness, and resolution settings**
+
+**Whether the design is isotropic or anisotropic, and why**
+
+**Clearance used for the snap fit engagement**
+
+**Slicer settings and screenshot showing print details**
+
+**Layer height, print time, and build volume**
+
 ## Post-Processing
 
 <img width="600" height="642" alt="image" src="https://github.com/user-attachments/assets/eb284f37-94c6-44a9-8dfd-9e543023d761" />
