@@ -22,6 +22,11 @@ Minimum clearance: 0.2 Thous (0.0002")
 
 Maximum clearance: 0.8 Thous (0.0008")
 
+**Hand Sketch**
+
+<img width="972" height="781" alt="image" src="https://github.com/user-attachments/assets/ff99ee14-ff3c-413e-b90b-d3484c0e22b3" />
+
+
 **Real World Applications**
 
 An RC2 class fit would be used where some sliding and accurate location is needed. It's main advantage would be allowing movement without introducing unwanted play in components. Due to this RC2 fits are best used where accuratee location and sliding are needed such as lathe spindles, locating pins, sliding gears and clutches. This fit is also useful for jigs or fixtures where repeated locational accuracy is important. This fit is not suited for machinery that requires high speed sliding or rotating as it would generate too much friction and the fit clearance can fluctuate with temperature changes.
@@ -49,10 +54,6 @@ Slot: 0.03" X 0.016" (L X H)
 Shaft/Bore Clearance: 12 thou (0.012")
 
 Key/Slot Clearance: 8 thou (0.008")
-
-**Hand Sketch**
-
-
 
 ## CAD Design
 
