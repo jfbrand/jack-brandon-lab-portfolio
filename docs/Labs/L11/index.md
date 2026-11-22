@@ -57,6 +57,8 @@ $l$ = Flexure length (in)
 $h$ = Flexure thickness (in)  
 $0.67$ = Empirical constant
 
+Which gave a max undercut depth of 0.1742 in. However, in order to increase the durability and increase the safety factor, the undercut was reduced to less than half: 0.07 in.
+
 <img width="695" height="491" alt="image" src="https://github.com/user-attachments/assets/62dd6920-e050-4c50-9d87-d4b4f84733ec" />
 
 <img width="362" height="545" alt="image" src="https://github.com/user-attachments/assets/ad02fbef-75e7-483d-ad8b-76f293335940" />
