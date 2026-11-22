@@ -51,6 +51,8 @@ $$
 \boxed{y = 0.1742 \text{ in}}
 $$
 
+Where \epsilon \ for Grey V5 resin is 13%, th
+
 <img width="695" height="491" alt="image" src="https://github.com/user-attachments/assets/62dd6920-e050-4c50-9d87-d4b4f84733ec" />
 
 <img width="362" height="545" alt="image" src="https://github.com/user-attachments/assets/ad02fbef-75e7-483d-ad8b-76f293335940" />
