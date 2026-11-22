@@ -20,11 +20,11 @@ A diagram from the Snap-Fit Design Guide displaying the crucial geometric parame
 
 <img width="407" height="327" alt="image" src="https://github.com/user-attachments/assets/f79dc0af-e505-4bb5-be6a-9852b9e99ca1" />
 
-A plot from the same source showing the yield strength and permissible strain for a cantilever snap fit.
+A plot from the same source showing the yield strength and permissible strain for a cantilever snap-fit.
 
 <img width="902" height="622" alt="image" src="https://github.com/user-attachments/assets/ed538e00-2989-4a6b-8711-753dbe279787" />
 
-
+A table of equations to solve for undercut depth for each type of type snap-fit geometry.
 
 **SLA Resin Properties**
 
