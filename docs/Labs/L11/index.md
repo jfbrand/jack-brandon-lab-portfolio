@@ -4,7 +4,7 @@
 
 **Key Design Principles**
 
-The chosen design was a strap clip. This mechanism utilizes two cantilever flexures that elastically deform and then "snap" back into shape.
+The chosen design was a strap clip. This mechanism utilizes two cantilever flexures that elastically deform and then "snap" back into shape when the undercuts are inserted past two cutouts in the receiving end of the clip. 
 
 **Sketch**
 
