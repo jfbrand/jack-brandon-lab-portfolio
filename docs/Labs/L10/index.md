@@ -117,11 +117,19 @@ Print Time: 1h for both assemblies
 
 **Caliper Measurements**
 
+Shaft:
+
 Bore:
 
-Slot: 
+Key:
 
-Shaft: 
+Slot:
+
+**Measurement-Tolerance Comparison**
+
+**Fit**
+
+The parts slide relatively smoothly. The shaft can slide in and out of the bore with little effort as well as rotate to the "locked position". There is no perceptible play in the assembly.
 
 ## Lessons Learned
 
