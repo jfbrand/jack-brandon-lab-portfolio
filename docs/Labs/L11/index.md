@@ -1,6 +1,6 @@
 # A11 - Snap Fit Design for SLA Printing (Form 4)
 
-## Research and Planning
+## Snap-Fit Research
 
 **Key Design Principles**
 
@@ -30,7 +30,7 @@ A table of equations to solve for undercut depth for each type of type snap-fit 
 
 SLA is a polymer with high stiffness that can work well for snap fits will small deflections. It is relatively brittle and prone to snapping with beam/flexure lengths that are too short or too thick.
 
-## CAD Design
+## Design
 
 **Snap-Fit Type**
 
@@ -117,8 +117,21 @@ The clip was not designed for separable assembly; once the parts were clipped to
 
 <img width="600" height="642" alt="image" src="https://github.com/user-attachments/assets/eb284f37-94c6-44a9-8dfd-9e543023d761" />
 
-## Fit Test
+**Wash:** Placed in alcohol bath for preset time (10 minutes).
 
+**Cure:** Placed in curing station for preset time (15 minutes).
+
+**Support Removal:** Snipped with wire cutters or broken off by hand.
+
+## Validation
+
+The snap fit functioned well with an audible snap and a very strong engagement. In fact, it was nearly impossible to remove after being snapped together, even when using hand tools to compress the flexures. The fit was only slightly loose, with some perceptible play. Adjustments were needed such as the spacing of the slots on the side from the intended receiving end of the outer clip. This resulted in the clip working better with the strap slot cut-out opposite/upside down from how it was originally designed. Apparently 0.03" was not enough clearance for the base of the flexure to the undercut. 
+
+After the in-lab validation the assembly was brought home and taken apart once again to re-use. This time however, one of the flexures snapped while inserting. This was only after the clip had been used several times successfully. Unfortunately, I did not have any photos of the assembled clip before it broke.
+
+<img width="710" height="287" alt="image" src="https://github.com/user-attachments/assets/6a3dff0f-3732-49bd-89d8-ff690bc10e9f" />
+
+The aftermath.
 
 ## Lessons Learned
 
