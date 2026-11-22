@@ -140,6 +140,7 @@ This lab was a challenge both in using a stiff, brittle material for a snap fit,
 **Resources:**
 
 https://instructure.charlotte.edu/courses/272053/pages/week-11-sla-designing-interlocking-parts?module_item_id=7944823 - for snap fit design
+
 Gemini/chat GPT - for resin info and converting equations to github syntax
 
 
