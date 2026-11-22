@@ -28,6 +28,8 @@ A table of equations to solve for undercut depth for each type of type snap-fit 
 
 **SLA Resin Properties**
 
+SLA is a polymer with high stiffness that can work well for snap fits will small deflections. It is relatively brittle and prone to snapping with beam/flexure lengths that are too short or too thick.
+
 ## CAD Design
 
 **Snap-Fit Type**
