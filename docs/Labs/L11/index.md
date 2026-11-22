@@ -52,7 +52,7 @@ $$
 $$
 
 $y$ = Deflection (in)  
-$\epsilon$ = Strain (in/in)  
+$\epsilon$ = Allowable Strain (in/in)  
 $l$ = Specimen length (in)  
 $h$ = Specimen thickness (in)  
 $0.67$ = Empirical constant
