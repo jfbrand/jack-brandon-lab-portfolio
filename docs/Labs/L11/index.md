@@ -135,5 +135,12 @@ The aftermath.
 
 ## Lessons Learned
 
+This lab was a challenge both in using a stiff, brittle material for a snap fit, as well as again, running into tolerance issues with the SLA print. My design, although functional at first, proved to be a one time use design. This was after using less than half the undercut depth from my calculations and ensuring that the print was cured properly. If anything I learned that the SLA is really only a viable option when a snap fit is one time use only. The material is simply to brittle and unstable to be used for repeated use snap fit designs with any significant deflection. Perhaps if the undercut was reduced even more, and the radii on the flexures was increased, the clip would have survived more use. Similar to the last lab using SLA, the tolerance weren't even close. Although a 0.03" space was dimensioned for the edge of the clip to the bottom of the slot, the undercut was far from being close to snapping. Luckily, when flipped over and used with the strap cut-out facing the insert, it was still able to snap. This was a repeat of the findings of the last lab where dimensions of the final print are far from nominal, especially when stacked as was the case here and two parts with individual shrinkage. The print orientation did not seem to be an issue here as the supports were easily removed and created no issues for the assembly. The insert had no supports on any interface geometry and the receiver side of the clip did not have any problematic supports inside. The main difference between FDM and SLA snap fits is the amount of allowable deflection. SLA appeared to be stiffer and more brittle and is isotropic while FDM prints are more flexible but anisotropic. It ends up being a tradeoff between the simplicity of isotropic design vs the superior characteristics of PLA/PETG for a snap fit design. The cost was roughly $1.58 for my and the other student's prints combined. The lab took roughly 9 hours from start to finish to complete.
+
+**Resources:**
+
+https://instructure.charlotte.edu/courses/272053/pages/week-11-sla-designing-interlocking-parts?module_item_id=7944823 - for snap fit design
+Gemini/chat GPT - for resin info and converting equations to github syntax
+
 
 
