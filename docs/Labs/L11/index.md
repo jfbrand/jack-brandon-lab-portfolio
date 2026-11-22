@@ -99,21 +99,19 @@ The clip was not designed for separable assembly; once the parts were clipped to
 
 <img width="1191" height="630" alt="image" src="https://github.com/user-attachments/assets/b26f49c9-3856-4c8b-ad49-ed3873aa0a16" />
 
-**Machine name and resin used:**
+**Machine name and resin used:** HumorousPetrel, Grey V5
 
-**Build orientation and reasoning:**
+**Build orientation and reasoning:** One click setup default
 
-**Layout on the build plate (2–3 student parts per plate):**
+**Layout on the build plate (2–3 student parts per plate):** One click setup default
 
-**Support strategy, wall thickness, and resolution settings:**
+**Support strategy, wall thickness, and resolution settings:** One click setup default
 
-**Whether the design is isotropic or anisotropic, and why:**
+**Whether the design is isotropic or anisotropic, and why:** isotropic due to properties of SLA
 
-**Clearance used for the snap fit engagement:**
+**Clearance used for the snap fit engagement:** 30 thou (0.03") for slots/flexures 
 
-**Slicer settings and screenshot showing print details:**
-
-**Layer height, print time, and build volume:**
+**Layer height, print time, and build volume:** 0.05 mm, 1h 49m, 20.74 ml (for both students' assemblies combined)
 
 ## Post-Processing
 
