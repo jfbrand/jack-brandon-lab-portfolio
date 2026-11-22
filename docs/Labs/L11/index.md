@@ -127,7 +127,7 @@ The clip was not designed for separable assembly; once the parts were clipped to
 
 The snap fit functioned well with an audible snap and a very strong engagement. In fact, it was nearly impossible to remove after being snapped together, even when using hand tools to compress the flexures. The fit was only slightly loose, with some perceptible play. Adjustments were needed such as the spacing of the slots on the side from the intended receiving end of the outer clip. This resulted in the clip working better with the strap slot cut-out opposite/upside down from how it was originally designed. Apparently 0.03" was not enough clearance for the base of the flexure to the undercut. 
 
-After the in-lab validation the assembly was brought home and taken apart once again to re-use. This time however, one of the flexures snapped while inserting. This was only after the clip had been used several times successfully. Unfortunately, I did not have any photos of the assembled clip before it broke.
+After the in-lab validation, the assembly was brought home and taken apart once again to re-use. This time however, one of the flexures snapped while inserting. This was only after the clip had been used several times successfully. Unfortunately, I did not have any photos of the assembled clip before it broke.
 
 <img width="710" height="287" alt="image" src="https://github.com/user-attachments/assets/6a3dff0f-3732-49bd-89d8-ff690bc10e9f" />
 
