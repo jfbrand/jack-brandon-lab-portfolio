@@ -34,6 +34,7 @@
 
 ## Preprocessing
 
+<img width="1191" height="630" alt="image" src="https://github.com/user-attachments/assets/b26f49c9-3856-4c8b-ad49-ed3873aa0a16" />
 
 ## Post-Processing
 
