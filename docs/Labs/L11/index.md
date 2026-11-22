@@ -1,4 +1,4 @@
-# A11- Snap Fit Design for SLA Printing (Form 4)
+# A11 - Snap Fit Design for SLA Printing (Form 4)
 
 ## Research and Planning
 
