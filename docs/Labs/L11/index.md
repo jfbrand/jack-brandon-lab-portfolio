@@ -14,6 +14,8 @@ The chosen design was a strap clip. This mechanism utilizes two cantilever flexu
 
 The amount of deflection in each flexure dictates the both the durability and the performance of the clip. Too little deflection, and the notches will not be large enough to provide a strong snap fit. Too much deflection and the flexure will be prone to snapping and the clip will require too much force to operate. The permissible strain is the amount of deflection that the material can undergo without plastically deforming or breaking. This is effected by material, flexure length, and geometry. This is a key factor when designing for durability. 
 
+<img width="552" height="327" alt="image" src="https://github.com/user-attachments/assets/b1525474-7540-4618-ad91-0ca3d1f25613" />
+
 **SLA Resin Properties**
 
 ## CAD Design
