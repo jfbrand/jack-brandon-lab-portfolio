@@ -8,7 +8,7 @@ The chosen design was a strap clip. This mechanism utilizes two cantilever flexu
 
 **Sketch**
 
-
+<img width="827" height="762" alt="image" src="https://github.com/user-attachments/assets/a714d0fc-bb38-4b32-aba7-b132f35481e5" />
 
 **Mechanical Principles**
 
