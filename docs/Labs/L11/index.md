@@ -51,13 +51,11 @@ $$
 \boxed{y = 0.1742 \text{ in}}
 $$
 
-\begin{aligned}
-y &= \text{Deflection (in)} \\
-\epsilon &= \text{Strain (in/in)} \\
-l &= \text{Length of the specimen (in)} \\
-h &= \text{Thickness of the specimen (in)} \\
-0.67 &= \text{Empirical constant}
-\end{aligned}
+$y$ = Deflection (in)  
+$\epsilon$ = Strain (in/in)  
+$l$ = Specimen length (in)  
+$h$ = Specimen thickness (in)  
+$0.67$ = Empirical constant
 
 <img width="695" height="491" alt="image" src="https://github.com/user-attachments/assets/62dd6920-e050-4c50-9d87-d4b4f84733ec" />
 
