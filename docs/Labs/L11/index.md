@@ -123,6 +123,12 @@ The clip was not designed for separable assembly; once the parts were clipped to
 
 **Support Removal:** Snipped with wire cutters or broken off by hand.
 
+The curing process directly effects the ultimate tensile strength of the parts. With a full 15 minute cure time in the oven, the parts have increased strength when compared to parts let out to cure in room temp air. 
+
+SLA parts are isotropic compared to FDM parts which are anisotropic. This is the reason that build orientation is so important in FDM printing. In SLA printing, build orientation is less important as the strength is the same in every direction, however it still effects the support removal process which can in turn effect surface finish/quality.
+
+SLA has good surface finish (smooth when compared to FDM especially). However, in my experience, its real-world dimensional accuracy is very low. Standard ANSI tolerances are useless when designing in CAD as the resulting print is always significantly different from the nominal dimensions.
+
 ## Validation
 
 The snap fit functioned well with an audible snap and a very strong engagement. In fact, it was nearly impossible to remove after being snapped together, even when using hand tools to compress the flexures. The fit was only slightly loose, with some perceptible play. Adjustments were needed such as the spacing of the slots on the side from the intended receiving end of the outer clip. This resulted in the clip working better with the strap slot cut-out opposite/upside down from how it was originally designed. Apparently 0.03" was not enough clearance for the base of the flexure to the undercut. 
