@@ -37,7 +37,19 @@ The intended function of this mechanism was to allow for two straps to be clippe
 
 The hook shape and undercut geometry were chosen to provide the amount of deflection that maintained stress that was within the yield stress of the material and ensuring that the clip did not require too much force to operate while still providing a strong hold. Similarly, the cross-sectional area of the flexures was designed to be the correct proportion to the length of each flexure, again, ensuring the correct amount stress and strain.
 
+Using the table from the Snap-Fit Design Guide:
 
+$$
+y = 0.67 \cdot \frac{\epsilon \cdot l^2}{h}
+$$
+
+$$
+y = 0.67 \cdot \frac{0.13 \cdot (0.5)^2}{0.125}
+$$
+
+$$
+\boxed{y = 0.1742 \text{ in}}
+$$
 
 <img width="695" height="491" alt="image" src="https://github.com/user-attachments/assets/62dd6920-e050-4c50-9d87-d4b4f84733ec" />
 
