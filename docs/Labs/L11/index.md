@@ -16,6 +16,10 @@ The amount of deflection in each flexure dictates the both the durability and th
 
 <img width="552" height="327" alt="image" src="https://github.com/user-attachments/assets/b1525474-7540-4618-ad91-0ca3d1f25613" />
 
+
+<img width="407" height="327" alt="image" src="https://github.com/user-attachments/assets/f79dc0af-e505-4bb5-be6a-9852b9e99ca1" />
+
+
 **SLA Resin Properties**
 
 ## CAD Design
