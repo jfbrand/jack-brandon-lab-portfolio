@@ -52,9 +52,9 @@ $$
 $$
 
 $y$ = Deflection (in)  
-$\epsilon$ = Allowable Strain (in/in)  
-$l$ = Specimen length (in)  
-$h$ = Specimen thickness (in)  
+$\epsilon$ = Allowable Strain for Grey V5 resin (in/in)  
+$l$ = Flexure length (in)  
+$h$ = Flexure thickness (in)  
 $0.67$ = Empirical constant
 
 <img width="695" height="491" alt="image" src="https://github.com/user-attachments/assets/62dd6920-e050-4c50-9d87-d4b4f84733ec" />
