@@ -31,7 +31,13 @@ The clip design uses a dual cantilever beam mechanism with undercut geometry tha
 
 **Intended Function**
 
-The intended function of this mechanism is to allow for two straps to be clipped together. The slots in the two parts of the clip are designed with slots to allow for these straps to be fastened to either end of the clip. The clip is designed to have a strong enough hold to be useful for a belt or backpack for example.
+The intended function of this mechanism was to allow for two straps to be clipped together. The slots in the two parts of the clip were designed with slots to allow for these straps to be fastened to either end of the clip. The clip was designed to have a strong enough hold to be useful for a belt or backpack for example.
+
+**Design Explanation**
+
+The hook shape and undercut geometry were chosen to provide the amount of deflection that maintained stress that was within the yield stress of the material and ensuring that the clip did not require too much force to operate while still providing a strong hold. Similarly, the cross-sectional area of the flexures was designed to be the correct proportion to the length of each flexure, again, ensuring the correct amount stress and strain.
+
+
 
 <img width="695" height="491" alt="image" src="https://github.com/user-attachments/assets/62dd6920-e050-4c50-9d87-d4b4f84733ec" />
 
