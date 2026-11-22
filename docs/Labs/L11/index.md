@@ -4,9 +4,15 @@
 
 **Key Design Principles**
 
+The chosen design was a strap clip. This mechanism utilizes two cantilever flexures that elastically deform and then "snap" back into shape.
+
 **Sketch**
 
+
+
 **Mechanical Principles**
+
+The amount of deflection in each flexure dictates the both the durability and the performance of the clip. Too little deflection, and the notches will not be large enough to provide a strong snap fit. Too much deflection and the flexure will be prone to snapping and the clip will require too much force to operate. The permissible strain is the amount of deflection that the material can undergo without plastically deforming or breaking. This is effected by material, flexure length, and geometry. This is a key factor when designing for durability. 
 
 **SLA Resin Properties**
 
