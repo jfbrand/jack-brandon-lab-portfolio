@@ -126,6 +126,8 @@ Key: 0.027
 
 **Measurement-Tolerance Comparison**
 
+The measurement for the shaft diameter was identical to the nominal. The bore measurement was 9 thou (0.009") smaller than nominal, resulting in a clearance of 3 thou (0.003") compared to the designed clearance of 12 thou (0.012").
+
 **Fit**
 
 The parts slide relatively smoothly. The shaft can slide in and out of the bore with little effort as well as rotate to the "locked position". There is no perceptible play in the assembly.
