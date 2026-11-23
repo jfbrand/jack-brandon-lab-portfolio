@@ -118,13 +118,11 @@ Print Time: 1h for both assemblies
 
 **Caliper Measurements**
 
-Shaft:
+Shaft: 0.238"
 
-Bore:
+Bore: 0.241
 
-Key:
-
-Slot:
+Key: 0.027
 
 **Measurement-Tolerance Comparison**
 
