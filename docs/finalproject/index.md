@@ -91,6 +91,11 @@ The basic design of the snap fit was tested last week with the SLA snap fit proj
 
 ## Refinement
 
+<img width="382" height="686" alt="image" src="https://github.com/user-attachments/assets/ab97866b-04fa-4f5f-ba1d-084b3fbd174e" />
+
+<img width="550" height="555" alt="image" src="https://github.com/user-attachments/assets/af28d2b6-679c-4dab-858a-f892cde18bbe" />
+
+
 ## Documentation
 
 <img width="481" height="640" alt="image" src="https://github.com/user-attachments/assets/2d8bdac5-ad9b-4efe-a78b-67c54d6d5ad2" />
