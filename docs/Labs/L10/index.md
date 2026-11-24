@@ -120,9 +120,9 @@ Print Time: 1h for both assemblies
 
 Shaft: 0.238"
 
-Bore: 0.241
+Bore: 0.241"
 
-Key: 0.027
+Key: 0.027" (wide)
 
 **Measurement-Tolerance Comparison**
 
