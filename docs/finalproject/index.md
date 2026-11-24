@@ -4,7 +4,7 @@
 
 The goal of this project is to select a real-world problem that you, a friend, or a family member personally experience and refine your prototype design to address it.
 
-## Part 1
+# Part 1
 
 ## Research
 
@@ -85,4 +85,25 @@ The basic design of the snap fit was tested last week with the SLA snap fit proj
 
 [![Watch the video here](assets/thumbnail.png)](https://drive.google.com/file/d/12mq3tQVJX0H_7B8eB8Z0kJVVTYCM1DMI/view?usp=sharing)
 
-## Part 2
+# Part 2
+
+## Peer Feedback
+
+## Refinement
+
+## Documentation
+
+<img width="481" height="640" alt="image" src="https://github.com/user-attachments/assets/2d8bdac5-ad9b-4efe-a78b-67c54d6d5ad2" />
+
+<img width="481" height="640" alt="image" src="https://github.com/user-attachments/assets/87c6d62d-a09f-4ea6-95bd-513dcfe1c1d8" />
+
+<img width="481" height="640" alt="image" src="https://github.com/user-attachments/assets/b3ecc5bf-160a-42e0-a91f-921a10bdd92a" />
+
+## Presentation Preparation
+
+Slide Link: https://drive.google.com/file/d/12mq3tQVJX0H_7B8eB8Z0kJVVTYCM1DMI/view?usp=sharing
+
+## Parametric Design
+
+## Final Video
+
