@@ -127,6 +127,8 @@ The two components snap together as shown. There should be minimal play between 
 
 <img width="481" height="640" alt="image" src="https://github.com/user-attachments/assets/b3ecc5bf-160a-42e0-a91f-921a10bdd92a" />
 
+Once assembled, the bottle holder can be hanged from any door pocket or cupholder that is close to an edge. Note: taller water bottles such as the one shown may have a high center of gravity and might be prone to falling over.
+
 ## Presentation Preparation
 
 Slide Link: https://drive.google.com/file/d/12mq3tQVJX0H_7B8eB8Z0kJVVTYCM1DMI/view?usp=sharing
