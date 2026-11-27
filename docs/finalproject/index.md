@@ -119,7 +119,11 @@ The changes made from the first design were the following: adjustments to flexur
 
 <img width="481" height="640" alt="image" src="https://github.com/user-attachments/assets/2d8bdac5-ad9b-4efe-a78b-67c54d6d5ad2" />
 
+After printing, the two components look as shown.
+
 <img width="481" height="640" alt="image" src="https://github.com/user-attachments/assets/87c6d62d-a09f-4ea6-95bd-513dcfe1c1d8" />
+
+The two components snap together as shown. There should be minimal play between the two components and the snap fit should have a strong hold.
 
 <img width="481" height="640" alt="image" src="https://github.com/user-attachments/assets/b3ecc5bf-160a-42e0-a91f-921a10bdd92a" />
 
