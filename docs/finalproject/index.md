@@ -89,6 +89,8 @@ The basic design of the snap fit was tested last week with the SLA snap fit proj
 
 ## Peer Feedback
 
+[CamScanner 11-27-26 17.06.pdf](https://github.com/user-attachments/files/35533037/CamScanner.11-27-26.17.06.pdf)
+
 ## Refinement
 
 <img width="382" height="686" alt="image" src="https://github.com/user-attachments/assets/ab97866b-04fa-4f5f-ba1d-084b3fbd174e" />
