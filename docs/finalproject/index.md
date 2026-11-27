@@ -139,3 +139,4 @@ Link: https://docs.google.com/presentation/d/1k2Uio-MkJJX3TpT5PCZoaVYtbyGFMAuK/e
 
 ## Final Video
 
+[![Watch the video here](assets/thumbnail.png)]([https://drive.google.com/file/d/1OA_qkcrEr-kdB8dFP7a8xzMIU0iEmhos/view?usp=sharing]
