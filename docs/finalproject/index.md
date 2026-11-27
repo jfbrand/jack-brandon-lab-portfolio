@@ -135,7 +135,7 @@ Link: https://docs.google.com/presentation/d/1k2Uio-MkJJX3TpT5PCZoaVYtbyGFMAuK/e
 
 ## Parametric Design
 
-
+<img width="716" height="607" alt="image" src="https://github.com/user-attachments/assets/3666db57-641b-42aa-8d66-7fd32d476236" />
 
 ## Final Video
 
