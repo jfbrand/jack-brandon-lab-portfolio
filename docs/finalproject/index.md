@@ -131,9 +131,11 @@ Once assembled, the bottle holder can be hanged from any door pocket or cupholde
 
 ## Presentation Preparation
 
-Slide Link: https://drive.google.com/file/d/12mq3tQVJX0H_7B8eB8Z0kJVVTYCM1DMI/view?usp=sharing
+Link: https://docs.google.com/presentation/d/1k2Uio-MkJJX3TpT5PCZoaVYtbyGFMAuK/edit?usp=sharing&ouid=104710962502719169914&rtpof=true&sd=true
 
 ## Parametric Design
+
+
 
 ## Final Video
 
