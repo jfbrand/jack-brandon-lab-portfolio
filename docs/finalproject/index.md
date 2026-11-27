@@ -93,14 +93,19 @@ The basic design of the snap fit was tested last week with the SLA snap fit proj
 
 <img width="828" height="432" alt="Screenshot 2026-11-27 171218" src="https://github.com/user-attachments/assets/1261777a-9cdf-4963-b17f-f5634cea6c90" />
 
+James' feedback was positive overall. He did suggest that I ensure that the snap-fit is strong enough to withstand bumps in the car. I will double check my calculations and dimensions before the final print, using the formulas we learned in lab 11.
+
 <img width="802" height="1078" alt="Screenshot 2026-11-27 171227" src="https://github.com/user-attachments/assets/f676a476-2cb0-4e9d-944e-42ab5647205c" />
 
 <img width="820" height="425" alt="Screenshot 2026-11-27 171240" src="https://github.com/user-attachments/assets/f0a3d87e-863c-402f-95c0-74401e187273" />
+
+Andy's feedback was similar to James'. He was concerned about the strength of the snap-fit. The reflection for James' feedback also applies here.
 
 <img width="807" height="1078" alt="Screenshot 2026-11-27 171252" src="https://github.com/user-attachments/assets/256268a3-0665-4391-9ed7-a375e40ee6cc" />
 
 <img width="820" height="437" alt="Screenshot 2026-11-27 171304" src="https://github.com/user-attachments/assets/eab237e0-6e51-418a-83a8-a392694f8b9e" />
 
+Juan's feedback was helpful. I agree with him that PETG would likely be a better material than PLA for dealing with the heat of a car interior. His suggestion about the clip was also insightful.
 
 ## Refinement
 
@@ -108,6 +113,7 @@ The basic design of the snap fit was tested last week with the SLA snap fit proj
 
 <img width="550" height="555" alt="image" src="https://github.com/user-attachments/assets/af28d2b6-679c-4dab-858a-f892cde18bbe" />
 
+The changes made from the first design were the following: adjustments to flexure length (for more flexibility/less risk of snapping) as well as widening the overall clip. These changes provide more strength and less risk of the snap-fit breaking during assembly. I would have liked to print in PETG instead of PLA but time and resource constraints did not permit. I would have also liked to refine the clip geometry further but saw the the design as functional, if not ideal.
 
 ## Documentation
 
