@@ -89,7 +89,18 @@ The basic design of the snap fit was tested last week with the SLA snap fit proj
 
 ## Peer Feedback
 
-[CamScanner 11-27-26 17.06.pdf](https://github.com/user-attachments/files/35533037/CamScanner.11-27-26.17.06.pdf)
+<img width="820" height="1078" alt="Screenshot 2026-11-27 171159" src="https://github.com/user-attachments/assets/116dce1f-7b04-477b-b7fa-92b6bd59ad99" />
+
+<img width="828" height="432" alt="Screenshot 2026-11-27 171218" src="https://github.com/user-attachments/assets/1261777a-9cdf-4963-b17f-f5634cea6c90" />
+
+<img width="802" height="1078" alt="Screenshot 2026-11-27 171227" src="https://github.com/user-attachments/assets/f676a476-2cb0-4e9d-944e-42ab5647205c" />
+
+<img width="820" height="425" alt="Screenshot 2026-11-27 171240" src="https://github.com/user-attachments/assets/f0a3d87e-863c-402f-95c0-74401e187273" />
+
+<img width="807" height="1078" alt="Screenshot 2026-11-27 171252" src="https://github.com/user-attachments/assets/256268a3-0665-4391-9ed7-a375e40ee6cc" />
+
+<img width="820" height="437" alt="Screenshot 2026-11-27 171304" src="https://github.com/user-attachments/assets/eab237e0-6e51-418a-83a8-a392694f8b9e" />
+
 
 ## Refinement
 
